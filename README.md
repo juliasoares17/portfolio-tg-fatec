@@ -7,11 +7,9 @@
 - 
 
 ## Contatos
-<a href = "mailto:brenerfreiree@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brener-freire-058950230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-* [GITHUB](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
-* [E-mail](juliapereira1448@gmail.com)
+<a href = "https://mail.google.com/mail/?view=cm&to=juliapereira1448@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/julia-pereira-dev/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=F26B9C" target="_blank"></a>
+
 
 ## 🌐 Principais Conhecimentos
 
