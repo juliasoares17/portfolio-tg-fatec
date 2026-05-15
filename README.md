@@ -1,7 +1,7 @@
 # Portfólio - Julia Soares Pereira
 
 ## 👤 Introdução
-<img align="right" src="./img/foto_juliaPereira.jpg" alt="foto" width="28%" >
+<img align="left" src="./img/foto_juliaPereira.jpg" alt="foto" width="28%" >
 Me chamo Julia Soares Pereira, tenho 20 anos de idade e atualmente estou no caminho para concluir o curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal. Finalizei o Ensino Fundamental e Médio na Escola Walter Fortunato, finalizando o Ensino Médio em 2023 e ingressando na graduação no primeiro semestre de 2024. Esta é minha primeira graduação após sair do colégio.
 
 Apesar de meu primeiro contato técnico com programação ter acontecido por meio de um curso de Lógica de Programação oferecido pelo Senai “Santos Dumont”, concluído em julho de 2023, a ideia de seguir na área da tecnologia surgiu ainda durante o Ensino Médio. Na época, eu buscava uma segunda possibilidade de carreira além da dança, atividade que também faz parte da minha trajetória pessoal. Atualmente, integro um grupo avançado de sapateado americano, participando de competições e apresentações em eventos, muitas vezes remuneradas. Sempre tive interesse em construir uma carreira mais independente dentro da dança, ministrando workshops e desenvolvendo meu próprio reconhecimento na área, mas também percebia a necessidade de possuir um plano profissional mais estável e seguro.
@@ -47,7 +47,7 @@ Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunin
 **Solução:**  
 Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
-<img src="./img/API1-logo.png" width="400">
+<img align="center" src="./img/API1-logo.png" width="400">
 <br/>
 <br/>
 
@@ -59,13 +59,13 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 |------------|--------------------------------------------------------|
 | HTML5      | Estruturação de páginas web                            |
 | CSS3       | Estilização das páginas web                            |
-| JavaScript | Adicionar dinamismo/comportamento às páginas            |
-| Bootstrap  | Framework CSS que facilita a estilização               |
-| Python     | Linguagem de programação usada no backend               |
-| Flask      | Microframework web usado como base da aplicação         |
-| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
-| Heroku     | Serviço usado para hospedar o backend                   |
-| GitHub     | Usado para versionamento da aplicação                   |
+| JavaScript | Adicionar dinamismo às páginas e aos questionários     |
+| Bootstrap  | Framework CSS para tornar a estilização mais prática   |
+| Python     | Linguagem usada no backend e em regras de negócio      |
+| Flask      | Framework web usado para rotas, templates e autenticação |
+| SQLite     | Banco de dados relacional para usuários, conteúdos teóricos e avaliações |
+| AWS EC2    | Serviço usado para hospedar o servidor                  |
+| Git / GitHub     | Usado para versionamento da aplicação                   |
 | Figma      | Usado para desenvolver o MVP do projeto                 |
 
 ### Contribuições Pessoais
