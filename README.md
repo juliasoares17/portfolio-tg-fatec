@@ -1,7 +1,7 @@
 # Portfólio - Julia Soares Pereira
 
 ## 👤 Introdução
-
+<img align="right" src="./img/foto_juliaPereira.jpg" alt="foto" width="28%" >
 Me chamo Julia Soares Pereira, tenho 20 anos de idade e atualmente estou no caminho para concluir o curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal. Finalizei o Ensino Fundamental e Médio na Escola Walter Fortunato, finalizando o Ensino Médio em 2023 e ingressando na graduação no primeiro semestre de 2024. Esta é minha primeira graduação após sair do colégio.
 
 Apesar de meu primeiro contato técnico com programação ter acontecido por meio de um curso de Lógica de Programação oferecido pelo Senai “Santos Dumont”, concluído em julho de 2023, a ideia de seguir na área da tecnologia surgiu ainda durante o Ensino Médio. Na época, eu buscava uma segunda possibilidade de carreira além da dança, atividade que também faz parte da minha trajetória pessoal. Atualmente, integro um grupo avançado de sapateado americano, participando de competições e apresentações em eventos, muitas vezes remuneradas. Sempre tive interesse em construir uma carreira mais independente dentro da dança, ministrando workshops e desenvolvendo meu próprio reconhecimento na área, mas também percebia a necessidade de possuir um plano profissional mais estável e seguro.
@@ -17,7 +17,7 @@ Até o momento, tive experiências profissionais voltadas ao desenvolvimento web
 Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos técnicos, mas também habilidades práticas e comportamentais por meio de projetos acadêmicos. O objetivo deste repositório é documentar minha evolução e minha participação nos trabalhos semestrais realizados durante o curso, também conhecidos como APIs (Aprendizado por Projetos Integradores).
 
 
-## Contatos
+## 📞 Contatos
 <a href = "https://mail.google.com/mail/?view=cm&to=juliapereira1448@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/julia-pereira-dev/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=F26B9C" target="_blank"></a>
 
@@ -30,7 +30,7 @@ Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos t�
 | <img src="./img/smolagents-logo.png" width="100"> | ![Figma](https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | <img src="./img/jira-logo.png" width="80"> | ![VSCode](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000) | <img src="./img/hostinger-logo.png" width="80"> | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
 
 
-## Projetos API
+## 💻 Projetos API
 
 <details> 
 <summary>1° Semestre (2024-1) | Mestre Ágil</summary>
@@ -48,12 +48,13 @@ Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunin
 Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
 <img src="./img/API1-logo.png" width="400">
+<br/>
+<br/>
 
 Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
 
 
-#### Tecnologias Utilizadas
-
+### Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
 | HTML5      | Estruturação de páginas web                            |
@@ -68,7 +69,6 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Figma      | Usado para desenvolver o MVP do projeto                 |
 
 ### Contribuições Pessoais
-
 Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaborei e desenhei o logo da aplicação.
 - Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
@@ -80,7 +80,6 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
 ### Hard Skills
-
 | Skill          |  Proficiência |  Descrição                                                |
 |----------------|---------------|-----------------------------------------------------------|
 | HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
@@ -89,7 +88,6 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 | Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
 
 ### Soft Skills
-
 - **Comunicação**:  
   Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
 
@@ -114,10 +112,60 @@ Empresas e instituições lidam diariamente com grandes volumes de documentos, c
 Desenvolver um software capaz de automatizar a extração de informações de documentos utilizando modelos de linguagem e visão computacional. O projeto deveria ser voltado ao processamento de um tipo específico de documento, ficando a critério de cada grupo definir qual tipo seria abordado em sua solução.
 
 **Solução:**  
-Foi desenvolvida a solução local “IDScan”, 
+Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java que digitaliza RGs e armazena os dados extraídos em um banco MySQL 100% local, sem dependência de APIs externas. O OCR é feito pelo Tesseract e a interpretação dos campos por modelos de linguagem rodando via Ollama (gemma2:2b, moondream e minicpm-v). O sistema permite carregar a imagem, processar, editar manualmente o que o OCR não captou corretamente, salvar, buscar e editar registros já armazenados.
+- A aplicação funciona da seguinte maneira: O usuário deve abrí-la e 
 
 ### Contribuições Pessoais
 
+- Todos os deveres relacionados ao uso de JavaFX ficaram sob minha responsabilidade.
+- Novamente, elaborei e desenhei o logo da aplicação
+- Estilização de todas as telas da aplicação (tela de upload de documentos, tela de confirmação de upload com pré-visualização da imagem inserida, tela de carregamento e tela de resultados)
+- Tornei possível usar a aplicação em tela cheia ou tela reduzida, garanti responsividade.
+- Garanti a funcionalidade de "arrastar arquivos sobre a tela de upload" além de simplesmente clicar no botão para fazer upload e escolher um arquivo do explorador.
+- Feedbacks visuais de sucesso ou falha
+- Funcionalidade de pesquisar por dados específicos na tela de resultados
+- Filtro para que seja possível inserir apenas imagens, nenhum outro formato de dado.
+ 
+</details>
+
+<details> 
+<summary>3° Semestre (2025-1) | InsightFlow</summary>
+
+**Conclusão:** *Junho/2025*  
+**Empresa:** FATEC São José dos Campos - Marcus Vinícius do Nascimento, cliente simulado. 
+
+**Problema:**  
+Profissionais como economistas, gestores públicos e empresas enfrentam certas dores quando seu objetivo é acompanhar o desempenho dos estados brasileiros quanto ao comércio exterior. Alguns exemplos são longos períodos de pesquisa por informações específicas, grandes volumes de dados irrelevantes, desatualizados e/ou desorganizados e dificuldades na interpretação dos dados para tomar decisões. 
+
+**Objetivo:**  
+Desenvolver uma plataforma web sobre comércio exterior que solucione todas essas dores. 
+
+**Solução:**  
+Foi desenvolvido o “InsightFlow"
+
+<img src="./img/API3-logo.png" width="400">
+<br/>
+<br/>
+
+Para mais informações, o repositório principal do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+
+
+### Tecnologias Utilizadas
+| Nome       | Descrição                                              |
+|------------|--------------------------------------------------------|
+| HTML5      | Estruturação de páginas web                            |
+| CSS3       | Estilização das páginas web                            |
+| JavaScript | Adicionar dinamismo/comportamento às páginas            |
+| Bootstrap  | Framework CSS que facilita a estilização               |
+| Python     | Linguagem de programação usada no backend               |
+| Flask      | Microframework web usado como base da aplicação         |
+| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
+| Heroku     | Serviço usado para hospedar o backend                   |
+| GitHub     | Usado para versionamento da aplicação                   |
+| Figma      | Usado para desenvolver o MVP do projeto                 |
+
+### Contribuições Pessoais
+Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaborei e desenhei o logo da aplicação.
 - Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
 - Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
@@ -126,13 +174,24 @@ Foi desenvolvida a solução local “IDScan”,
 - Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
 - Elaboração do texto disponível para consulta antes de um quiz
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
-</details>
 
-<details> 
-<summary>3° Semestre (2025-1) | InsightFlow</summary>
+### Hard Skills
+| Skill          |  Proficiência |  Descrição                                                |
+|----------------|---------------|-----------------------------------------------------------|
+| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
+| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
+| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
+| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
 
-**Conclusão:** *Junho/2025*  
-**Empresa:** FATEC São José dos Campos - Marcus Vinícius do Nascimento, cliente simulado. 
+### Soft Skills
+- **Comunicação**:  
+  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+
+- **Trabalho em equipe**:  
+  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+
+- **Resolução de problemas**:  
+  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
 </details>
 
 <details> 
@@ -140,6 +199,65 @@ Foi desenvolvida a solução local “IDScan”,
 
 **Conclusão:** *Dezembro/2025*  
 **Empresa:** TecSys Brasil, empresa de comércio exterior e soluções fiscais - Creonice Honório.
+
+**Problema:**  
+O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
+
+**Objetivo:**  
+Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
+
+**Solução:**  
+Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
+
+<img src="./img/API1-logo.png" width="400">
+<br/>
+<br/>
+
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+
+
+### Tecnologias Utilizadas
+| Nome       | Descrição                                              |
+|------------|--------------------------------------------------------|
+| HTML5      | Estruturação de páginas web                            |
+| CSS3       | Estilização das páginas web                            |
+| JavaScript | Adicionar dinamismo/comportamento às páginas            |
+| Bootstrap  | Framework CSS que facilita a estilização               |
+| Python     | Linguagem de programação usada no backend               |
+| Flask      | Microframework web usado como base da aplicação         |
+| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
+| Heroku     | Serviço usado para hospedar o backend                   |
+| GitHub     | Usado para versionamento da aplicação                   |
+| Figma      | Usado para desenvolver o MVP do projeto                 |
+
+### Contribuições Pessoais
+Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
+- Elaborei e desenhei o logo da aplicação.
+- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
+- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
+- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
+- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
+- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
+- Elaboração do texto disponível para consulta antes de um quiz
+- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
+
+### Hard Skills
+| Skill          |  Proficiência |  Descrição                                                |
+|----------------|---------------|-----------------------------------------------------------|
+| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
+| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
+| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
+| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+
+### Soft Skills
+- **Comunicação**:  
+  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+
+- **Trabalho em equipe**:  
+  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+
+- **Resolução de problemas**:  
+  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
 </details>
 
 <details> 
@@ -147,6 +265,65 @@ Foi desenvolvida a solução local “IDScan”,
 
 **Conclusão (Previsão):** *Junho/2026*  
 **Empresa:** Pro4Tech, empresa de comércio exterior e soluções fiscais - Larissa Souza e Rafael Monteiro.
+
+**Problema:**  
+O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
+
+**Objetivo:**  
+Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
+
+**Solução:**  
+Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
+
+<img src="./img/API1-logo.png" width="400">
+<br/>
+<br/>
+
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+
+
+### Tecnologias Utilizadas
+| Nome       | Descrição                                              |
+|------------|--------------------------------------------------------|
+| HTML5      | Estruturação de páginas web                            |
+| CSS3       | Estilização das páginas web                            |
+| JavaScript | Adicionar dinamismo/comportamento às páginas            |
+| Bootstrap  | Framework CSS que facilita a estilização               |
+| Python     | Linguagem de programação usada no backend               |
+| Flask      | Microframework web usado como base da aplicação         |
+| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
+| Heroku     | Serviço usado para hospedar o backend                   |
+| GitHub     | Usado para versionamento da aplicação                   |
+| Figma      | Usado para desenvolver o MVP do projeto                 |
+
+### Contribuições Pessoais
+Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
+- Elaborei e desenhei o logo da aplicação.
+- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
+- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
+- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
+- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
+- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
+- Elaboração do texto disponível para consulta antes de um quiz
+- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
+
+### Hard Skills
+| Skill          |  Proficiência |  Descrição                                                |
+|----------------|---------------|-----------------------------------------------------------|
+| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
+| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
+| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
+| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+
+### Soft Skills
+- **Comunicação**:  
+  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+
+- **Trabalho em equipe**:  
+  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+
+- **Resolução de problemas**:  
+  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
 </details>
 
 [GIT](https://www.git.com)
