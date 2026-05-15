@@ -65,8 +65,10 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Flask      | Framework web usado para rotas, templates e autenticação |
 | SQLite     | Banco de dados relacional para usuários, conteúdos teóricos e avaliações |
 | AWS EC2    | Serviço usado para hospedar o servidor                  |
-| Git / GitHub     | Usado para versionamento da aplicação                   |
-| Figma      | Usado para desenvolver o MVP do projeto                 |
+| Git / GitHub     | Colaboração simultânea e gestão do projeto            |
+| Figma      | Desenvolvimento dos wireframes do MVP do projeto                 |
+| Krita      | Desenhar o logo da aplicação                 |
+| Visual Studio Code      | Desenvolvimento e versionamento de código          |
 
 ### Contribuições Pessoais
 Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
