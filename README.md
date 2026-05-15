@@ -30,33 +30,97 @@ Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos t�
 | <img src="./img/smolagents-logo.png" width="100"> | ![Figma](https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | <img src="./img/jira-logo.png" width="80"> | ![VSCode](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000) | <img src="./img/hostinger-logo.png" width="80"> | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
 
 
-## Meus Projetos
+## Projetos API
 
-### Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+<details> 
+<summary>1° Semestre (2024-1) | Mestre Ágil</summary>
+
+**Conclusão:** *Junho/2024*  
+**Empresa:** FATEC São José dos Campos - Professor Antônio Egydio São Tiago Graça, cliente simulado. 
+
+**Problema:**  
+O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
+
+**Objetivo:**  
+Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários.
+
+**Solução:**  
+Foi desenvolvida uma plataforma web educacional responsiva que centraliza conteúdo teórico, exemplos práticos, ferramentas de apoio (backlog, burndown) e um sistema de avaliações com geração de certificado. O backend foi escrito em Python/Flask conectado a um banco SQLite, e o frontend em HTML, CSS, Bootstrap e JavaScript. O sistema foi hospedado em servidor AWS EC2 com NGINX como proxy reverso, permitindo acesso público durante e após o desenvolvimento.
+
+### Imagens do Projeto
+<img src="./assets/mvp-sprint4.gif" alt="aplicação rodando">
+
+Para mais informações:  
+[GitHub](https://github.com/ogustavoalves/API_MirageGroup)
+
+#### Tecnologias Utilizadas
+
+| Nome       | Descrição                                              |
+|------------|--------------------------------------------------------|
+| HTML5      | Estruturação de páginas web                            |
+| CSS3       | Estilização das páginas web                            |
+| JavaScript | Adicionar dinamismo/comportamento às páginas            |
+| Bootstrap  | Framework CSS que facilita a estilização               |
+| Python     | Linguagem de programação usada no backend               |
+| Flask      | Microframework web usado como base da aplicação         |
+| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
+| Heroku     | Serviço usado para hospedar o backend                   |
+| GitHub     | Usado para versionamento da aplicação                   |
+| Figma      | Usado para desenvolver o MVP do projeto                 |
+
+### Contribuições Pessoais
+
+
+
+### Hard Skills
+
+| Skill          |  Proficiência |  Descrição                                                |
+|----------------|---------------|-----------------------------------------------------------|
+| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
+| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
+| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
+| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+
+### Soft Skills
+
+- **Comunicação**:  
+  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+
+- **Trabalho em equipe**:  
+  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+
+- **Resolução de problemas**:  
+  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
+
+</details>
+
+<details> 
+<summary>2° Semestre (2024-2) | IDScan</summary>
+
+**Conclusão:** *Dezembro/2024*  
+**Empresa:** FATEC São José dos Campos - Professor Giuliano Araújo Bertoti, cliente simulado. 
+</details>
+
+<details> 
+<summary>3° Semestre (2025-1) | InsightFlow</summary>
+
+**Conclusão:** *Junho/2025*  
+**Empresa:** FATEC São José dos Campos - Marcus Vinícius do Nascimento, cliente simulado. 
+</details>
+
+<details> 
+<summary>4° Semestre (2025-2) | NEXA</summary>
+
+**Conclusão:** *Dezembro/2025*  
+**Empresa:** TecSys Brasil, empresa de comércio exterior e soluções fiscais - Creonice Honório.
+</details>
+
+<details> 
+<summary>5° Semestre (2026-1) | NEXA</summary>
+
+**Conclusão (Previsão):** *Junho/2026*  
+**Empresa:** Pro4Tech, empresa de comércio exterior e soluções fiscais - Larissa Souza e Rafael Monteiro.
+</details>
 
 [GIT](https://www.git.com)
 
-#### Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
-
-#### Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
-
-#### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
-
-#### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
-
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
