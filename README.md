@@ -121,8 +121,7 @@ Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java q
 <br/>
 <br/>
 
-Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
-
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/2semestre-ADS).
 
 ### Tecnologias Utilizadas
 | Nome       | Descrição                                              |
@@ -141,6 +140,7 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 
 ### Contribuições Pessoais
 
+Atuei como parte do Dev Team novamente no segundo API desenvolvido.
 - Todos os deveres relacionados ao uso de JavaFX ficaram sob minha responsabilidade.
 - Novamente, elaborei e desenhei o logo da aplicação
 - Estilização de todas as telas da aplicação (tela de upload de documentos, tela de confirmação de upload com pré-visualização da imagem inserida, tela de carregamento e tela de resultados)
@@ -149,6 +149,24 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 - Feedbacks visuais de sucesso ou falha
 - Funcionalidade de pesquisar por dados específicos na tela de resultados
 - Filtro para que seja possível inserir apenas imagens, nenhum outro formato de dado.
+
+### Hard Skills
+| Skill          |  Proficiência |  Descrição                                                |
+|----------------|---------------|-----------------------------------------------------------|
+| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
+| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
+| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
+| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+
+### Soft Skills
+- **Comunicação**:  
+  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+
+- **Trabalho em equipe**:  
+  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+
+- **Resolução de problemas**:  
+  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
  
 </details>
 
