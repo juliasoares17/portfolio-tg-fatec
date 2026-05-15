@@ -42,10 +42,10 @@ Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos t�
 O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
 
 **Objetivo:**  
-Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários.
+Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
 
 **Solução:**  
-Foi desenvolvida uma plataforma web educacional responsiva que centraliza conteúdo teórico, exemplos práticos, ferramentas de apoio (backlog, burndown) e um sistema de avaliações com geração de certificado. O backend foi escrito em Python/Flask conectado a um banco SQLite, e o frontend em HTML, CSS, Bootstrap e JavaScript. O sistema foi hospedado em servidor AWS EC2 com NGINX como proxy reverso, permitindo acesso público durante e após o desenvolvimento.
+Foi desenvolvido o site “Mestre Ágil”, uma plataforma web voltada ao ensino da metodologia SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado em caso de aprovação. O sistema também disponibiliza modelos de artefatos SCRUM (Backlogs e Burndown Chart) e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 utilizando NGINX como proxy reverso.
 
 ### Imagens do Projeto
 <img src="./assets/mvp-sprint4.gif" alt="aplicação rodando">
@@ -70,7 +70,15 @@ Para mais informações:
 
 ### Contribuições Pessoais
 
-
+Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
+- Elaborei e desenhei o logo da aplicação.
+- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
+- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
+- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
+- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
+- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
+- Elaboração do texto disponível para consulta antes de um quiz
+- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
 ### Hard Skills
 
@@ -99,6 +107,26 @@ Para mais informações:
 
 **Conclusão:** *Dezembro/2024*  
 **Empresa:** FATEC São José dos Campos - Professor Giuliano Araújo Bertoti, cliente simulado. 
+
+**Problema:**  
+Empresas e instituições lidam diariamente com grandes volumes de documentos, como currículos, contas, notas fiscais, formulários e relatórios. Quando a extração de informações desses arquivos depende exclusivamente da atividade humana, o processo se torna lento, repetitivo e suscetível a falhas, comprometendo a produtividade e a confiabilidade dos dados obtidos. 
+
+**Objetivo:**  
+Desenvolver um software para automatizar a extração de informações de documentos usando modelos de linguagem e visão. O tipo de documentos com os quais a solução lidaria ficou livre para cada grupo definir o seu.
+
+**Solução:**  
+Foi desenvolvida a solução local “IDScan”, 
+
+### Contribuições Pessoais
+
+- Elaborei e desenhei o logo da aplicação.
+- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
+- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
+- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
+- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
+- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
+- Elaboração do texto disponível para consulta antes de um quiz
+- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 </details>
 
 <details> 
@@ -116,7 +144,7 @@ Para mais informações:
 </details>
 
 <details> 
-<summary>5° Semestre (2026-1) | NEXA</summary>
+<summary>5° Semestre (2026-1) | SyncDesk</summary>
 
 **Conclusão (Previsão):** *Junho/2026*  
 **Empresa:** Pro4Tech, empresa de comércio exterior e soluções fiscais - Larissa Souza e Rafael Monteiro.
