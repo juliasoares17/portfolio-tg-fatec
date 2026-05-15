@@ -4,7 +4,12 @@
 
 - Julia Soares Pereira
 - 20 anos de idade
-- 
+- Ensino Fundamental e Médio concluídos na Escola Walter Fortunato.
+- Concluí o Ensino Médio em 2023, ingressando na Fatec no primeiro semestre do ano seguinte, 2024
+- Meu primeiro contato com programação antes da fatec foi por meio de um curso ofercido pelo Senai "Santos Dumont", sobre Lógica de Programação. Ele me introduziu a conceitos como estruturas de repetição e condição e expressões aritméticas, literais e lógicas. Concluí esse curso em julho de 2023.
+- Escolhi a Fatec (ainda preciso formular um motivo), e o curso de ADS por ter ouvido falar que ele era informalmente conhecido "o curso que menos programa" de todos da Fatec. Pareceu a opção mais amigável com completos iniciantes na área da tecnologia. Além desse motivo, claro que também pesquisei mais para entender melhor a fama e a reputação da faculdade, quais matérias o curso englobava e quais professores compunham o corpo docente antes de tomar minha decisão, tomando-a após perceber que o curso satisfazia minhas espectativas e parecia uma ótima introdução à área.
+- Experiência profissional: Até o momento, só tive uma única experiência profissional, que foi uma vaga de estágio home office. Nunca tinha trabalhado antes de entrar na Fatec. Em meu estágio, atuei 
+- Este curso de Análise e Desenvolvimento de Sistemas será minha primeira graduação completa após sair do Ensino Médio.
 
 ## Contatos
 <a href = "https://mail.google.com/mail/?view=cm&to=juliapereira1448@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
