@@ -47,11 +47,10 @@ Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunin
 **Solução:**  
 Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
-### Imagens do Projeto
-<img src="./assets/mvp-sprint4.gif" alt="aplicação rodando">
+<img src="./img/API1-logo.png" width="400">
 
-Para mais informações:  
-[GitHub](https://github.com/ogustavoalves/API_MirageGroup)
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+
 
 #### Tecnologias Utilizadas
 
@@ -112,7 +111,7 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 Empresas e instituições lidam diariamente com grandes volumes de documentos, como currículos, contas, notas fiscais, formulários e relatórios. Quando a extração de informações desses arquivos depende exclusivamente da atividade humana, o processo se torna lento, repetitivo e suscetível a falhas, comprometendo a produtividade e a confiabilidade dos dados obtidos. 
 
 **Objetivo:**  
-Desenvolver um software para automatizar a extração de informações de documentos usando modelos de linguagem e visão. O tipo de documentos com os quais a solução lidaria ficou livre para cada grupo definir o seu.
+Desenvolver um software capaz de automatizar a extração de informações de documentos utilizando modelos de linguagem e visão computacional. O projeto deveria ser voltado ao processamento de um tipo específico de documento, ficando a critério de cada grupo definir qual tipo seria abordado em sua solução.
 
 **Solução:**  
 Foi desenvolvida a solução local “IDScan”, 
