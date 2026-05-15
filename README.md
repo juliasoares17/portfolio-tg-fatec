@@ -45,7 +45,7 @@ O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimen
 Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
 
 **Solução:**  
-Foi desenvolvido o site “Mestre Ágil”, uma plataforma web voltada ao ensino da metodologia SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 utilizando NGINX como proxy reverso.
+Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
 ### Imagens do Projeto
 <img src="./assets/mvp-sprint4.gif" alt="aplicação rodando">
