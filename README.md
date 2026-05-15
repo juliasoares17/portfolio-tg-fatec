@@ -117,6 +117,28 @@ Desenvolver um software capaz de automatizar a extração de informações de do
 Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java que digitaliza RGs e armazena os dados extraídos em um banco MySQL 100% local, sem dependência de APIs externas. O OCR é feito pelo Tesseract e a interpretação dos campos por modelos de linguagem rodando via Ollama (gemma2:2b, moondream e minicpm-v). O sistema permite carregar a imagem, processar, editar manualmente o que o OCR não captou corretamente, salvar, buscar e editar registros já armazenados.
 - A aplicação funciona da seguinte maneira: O usuário deve abrí-la e 
 
+<img align="center" src="./img/API2-logo.png" width="400">
+<br/>
+<br/>
+
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+
+
+### Tecnologias Utilizadas
+| Nome       | Descrição                                              |
+|------------|--------------------------------------------------------|
+| Java 17    | Linguagem de programação principal                     |
+| Maven      | Gerenciamento de dependências e build                  |
+| Tesseract OCR | Reconhecimento óptico de caracteres das imagens     |
+| Ollama     | Execução local de modelos para interpretação dos campos extraídos |
+| MySQL      | Banco de dados relacional local para persistência dos documentos  |
+| JavaFX     | Construção visual das telas da aplicação               |
+| Git / GitHub     | Colaboração simultânea                           |
+| Jira     | Gestão de tarefas e burndown                                  |
+| Figma      | Desenvolvimento dos wireframes do MVP do projeto                 |
+| Krita      | Desenhar o logo da aplicação                 |
+| Visual Studio Code      | Desenvolvimento e versionamento de código          |
+
 ### Contribuições Pessoais
 
 - Todos os deveres relacionados ao uso de JavaFX ficaram sob minha responsabilidade.
@@ -155,7 +177,7 @@ Para mais informações, o repositório principal do projeto está disponível [
 ### Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
-| HTML5      | Estruturação de páginas web                            |
+| Java 17    | Estruturação de páginas web                            |
 | CSS3       | Estilização das páginas web                            |
 | JavaScript | Adicionar dinamismo/comportamento às páginas            |
 | Bootstrap  | Framework CSS que facilita a estilização               |
