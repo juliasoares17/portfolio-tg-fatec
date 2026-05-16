@@ -114,8 +114,7 @@ Empresas e instituições lidam diariamente com grandes volumes de documentos, c
 Desenvolver um software capaz de automatizar a extração de informações de documentos utilizando modelos de linguagem e visão computacional. O projeto deveria ser voltado ao processamento de um tipo específico de documento, ficando a critério de cada grupo definir qual tipo seria abordado em sua solução.
 
 **Solução:**  
-Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java que digitaliza RGs e armazena os dados extraídos em um banco MySQL 100% local, sem dependência de APIs externas. O OCR é feito pelo Tesseract e a interpretação dos campos por modelos de linguagem rodando via Ollama (gemma2:2b, moondream e minicpm-v). O sistema permite carregar a imagem, processar, editar manualmente o que o OCR não captou corretamente, salvar, buscar e editar registros já armazenados.
-- A aplicação funciona da seguinte maneira: O usuário deve abrí-la e 
+Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java capaz de digitalizar documentos RG e armazenar os dados extraídos em um banco MySQL local, sem dependência de APIs externas. O sistema utiliza OCR com Tesseract e modelos de linguagem executados via Ollama para identificar e interpretar automaticamente informações como CPF, data de nascimento, naturalidade e filiação a partir das imagens do documento. O usuário deve realizar o upload das imagens da frente e do verso do RG, podendo posteriormente corrigir manualmente informações extraídas de forma incorreta ou incompleta. Após a validação dos dados, os registros podem ser salvos e consultados futuramente dentro da própria aplicação. 
 
 <img align="center" src="./img/API2-logo.png" width="400">
 <br/>
