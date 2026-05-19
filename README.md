@@ -30,7 +30,7 @@ Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos t�
 | <img src="./img/smolagents-logo.png" width="100"> | ![Figma](https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000) | ![GitHub](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) | ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000) | <img src="./img/jira-logo.png" width="80"> | ![VSCode](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000) | ![Slack](https://img.icons8.com/?size=100&id=OXVeOEj6qZqX&format=png&color=000000) | <img src="./img/hostinger-logo.png" width="80"> | ![Canva](https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000)
 
 
-## 💻 Projetos API
+## 📌 Projetos API
 
 <details> 
 <summary>1° Semestre (2024-1) | Mestre Ágil</summary>
@@ -54,7 +54,7 @@ Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de S
 Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
 
 
-### Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
 | HTML5      | Estruturação de páginas web                            |
@@ -64,41 +64,52 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Python     | Linguagem usada no backend e em regras de negócio      |
 | Flask      | Framework web usado para rotas, templates e autenticação |
 | SQLite     | Banco de dados relacional para usuários, conteúdos teóricos e avaliações |
-| AWS EC2    | Serviço usado para hospedar o servidor                  |
+| AWS        | Serviço usado para hospedar o servidor                  |
 | NGINX      | Proxy reverso e configuração de tráfego HTTPS          |
 | Git / GitHub     | Colaboração simultânea e gestão do projeto            |
 | Figma      | Desenvolvimento dos wireframes do MVP do projeto                 |
 | Krita      | Desenhar o logo da aplicação                 |
 | Visual Studio Code      | Desenvolvimento e versionamento de código          |
 
-### Contribuições Pessoais
-Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
-- Elaborei e desenhei o logo da aplicação.
-- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
-- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
-- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
-- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
-- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
-- Elaboração do texto disponível para consulta antes de um quiz
-- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
+### 🎯 Contribuições Pessoais
+Atuei como integrante do time de desenvolvimento (Dev Team) durante o primeiro semestre, contribuindo principalmente nas áreas de conteúdo, experiência do usuário e interface da plataforma.
 
-### Hard Skills
-| Skill          |  Proficiência |  Descrição                                                |
-|----------------|---------------|-----------------------------------------------------------|
-| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
-| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
-| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
-| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+- Elaboração do logotipo da aplicação.
+- Produção da apostila digital contendo o conteúdo teórico utilizado na plataforma.
+- Escrita do guia prático responsável por orientar os usuários sobre a utilização dos recursos do sistema.
+- Elaboração de mensagens explicativas exibidas quando o usuário respondia incorretamente às questões.
+- Implementação da lógica dos tipos diferenciados de perguntas presentes nos quizzes, incluindo questões de associação e verdadeiro ou falso, com o objetivo de tornar as atividades mais dinâmicas e interativas.
+- Desenvolvimento da estilização visual das páginas dos sistemas de quizzes e avaliação final, incluindo os diferentes formatos de questões utilizados pela plataforma.
+- Produção dos textos de apoio disponibilizados para consulta antes da realização dos quizzes.
+- Criação das páginas de conteúdo exibidas entre as etapas dos quizzes para complementar o aprendizado do usuário.
+- Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
-### Soft Skills
-- **Comunicação**:  
-  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+### ⚙️ Hard Skills
+| Skill               |  Proficiência                   | 
+|---------------------|---------------------------------|
+| HTML5               | Consigo ensinar - 9/10          | 
+| CSS3                | Consigo ensinar - 9/10          | 
+| JavaScript          | Uso com autonomia - 7/10        |
+| Bootstrap           | Uso com autonomia - 7/10        |
+| Python              | Uso com autonomia - 7/10        |
+| Flask               | Uso com autonomia - 6/10        |
+| SQLite              | Uso com autonomia - 6/10        |
+| AWS                 | Uso com autonomia - 6/10        |
+| NGINX               | Ouvi falar - 2/10               |
+| Git / GitHub        | Uso com autonomia - 8/10        |
+| Figma               | Uso com autonomia - 8/10        |
+| Krita               | Uso com autonomia - 7/10        |
+| Visual Studio Code  | Uso com autonomia - 8/10        |
 
-- **Trabalho em equipe**:  
-  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+### 🧠 Soft Skills
+- **🌱 Resiliência**:
+O primeiro semestre representou minha primeira experiência com trabalho em grupo fora do contexto escolar tradicional, trazendo diversos desafios pessoais e interpessoais. Antes mesmo do kick-off do projeto, precisei lidar com a dificuldade de conhecer pessoas novas e formar uma equipe para ter com quem atuar ao longo do semestre. Como costumo ser mais reservada em ambientes desconhecidos, tive que sair da minha zona de conforto para iniciar conversas e construir conexões com meus colegas. Essa experiência me ajudou a desenvolver maior confiança em situações novas e a compreender a importância da adaptação e da iniciativa em ambientes colaborativos.
 
-- **Resolução de problemas**:  
-  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
+- **🤔 Pensamento Crítico**:  
+Durante o primeiro semestre, participei de uma situação delicada envolvendo a possível realocação de um integrante da equipe. Foi uma experiência inesperada para um primeiro projeto acadêmico, e exigiu uma análise madura sobre comprometimento, entregas e impacto no desempenho do grupo. Ao longo das discussões, percebemos que existia uma diferença significativa entre o nível de conhecimento que o integrante demonstrava verbalmente e os resultados efetivamente entregues, o que acabava sobrecarregando outros membros da equipe. Essa experiência contribuiu para o desenvolvimento da minha capacidade de avaliar situações de forma mais crítica, equilibrada e profissional dentro de contextos que exigem cooperação e responsabilidade coletiva.
+
+- **🫂 Empatia**:  
+Durante o primeiro semestre, nosso grupo contou com a participação de um integrante mais velho, que demonstrava maiores dificuldades de adaptação às tecnologias e ferramentas utilizadas no curso. Apesar de a maioria da equipe também estar tendo seus primeiros contatos acadêmicos com programação, existia uma familiaridade natural com o ambiente digital devido à nossa geração. O processo realmente poderia ser mais desafiador para quem viesse de gerações anteriores. Buscamos auxiliá-lo da melhor forma possível, tentando explicar conceitos e tarefas de maneira mais acessível, mas também precisávamos equilibrar esse suporte com os prazos e demandas do projeto. Diante disso, adaptamos a divisão de tarefas para que ele pudesse contribuir dentro de suas possibilidades, participando de atividades mais conceituais e organizacionais. Essa experiência fortaleceu minha empatia e minha capacidade de lidar com diferentes ritmos de aprendizado em situações que exigiam paciência, adaptação e cooperação entre os integrantes da equipe.
 
 </details>
 
@@ -123,7 +134,7 @@ Foi desenvolvida a solução local “IDScan”, um aplicativo desktop em Java c
 
 Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/2semestre-ADS).
 
-### Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
 | Java 17    | Linguagem de programação principal                     |
@@ -138,35 +149,43 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Krita      | Desenhar o logo da aplicação                 |
 | Visual Studio Code      | Desenvolvimento e versionamento de código          |
 
-### Contribuições Pessoais
+### 🎯 Contribuições Pessoais
+Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o segundo API, sendo responsável principalmente pelas funcionalidades relacionadas à interface gráfica da aplicação em JavaFX.
 
-Atuei como parte do Dev Team novamente no segundo API desenvolvido.
-- Todos os deveres relacionados ao uso de JavaFX ficaram sob minha responsabilidade.
-- Novamente, elaborei e desenhei o logo da aplicação
-- Estilização de todas as telas da aplicação (tela de upload de documentos, tela de confirmação de upload com pré-visualização da imagem inserida, tela de carregamento e tela de resultados)
-- Tornei possível usar a aplicação em tela cheia ou tela reduzida, garanti responsividade.
-- Garanti a funcionalidade de "arrastar arquivos sobre a tela de upload" além de simplesmente clicar no botão para fazer upload e escolher um arquivo do explorador.
-- Feedbacks visuais de sucesso ou falha
-- Funcionalidade de pesquisar por dados específicos na tela de resultados
-- Filtro para que seja possível inserir apenas imagens, nenhum outro formato de dado.
+- Desenvolvimento das interfaces da aplicação utilizando JavaFX.
+- Elaboração do logotipo da aplicação.
+- Implementação da estilização visual de todas as telas do sistema, incluindo as telas de upload de documentos, pré-visualização das imagens inseridas, carregamento e exibição dos resultados extraídos.
+- Implementação da responsividade da interface, permitindo o uso da aplicação tanto em tela cheia quanto em formatos reduzidos.
+- Desenvolvimento da funcionalidade de arrastar e soltar arquivos (“drag and drop”) na área de upload, além do envio tradicional por seleção de arquivos.
+- Implementação de feedbacks visuais para indicar sucesso ou falha durante as operações realizadas pelo usuário.
+- Desenvolvimento da funcionalidade de pesquisa por dados específicos na tela de resultados.
+- Implementação de filtros para permitir exclusivamente o envio de arquivos de imagem compatíveis com a aplicação.
+- Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
-### Hard Skills
-| Skill          |  Proficiência |  Descrição                                                |
-|----------------|---------------|-----------------------------------------------------------|
-| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
-| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
-| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
-| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+### ⚙️ Hard Skills
+| Skill                   |  Proficiência             |
+|-------------------------|---------------------------|
+| Java 17                 | Uso com ajuda - 5/10      |
+| Maven                   | Ouvi falar - 2/10         |
+| Tesseract OCR           | Ouvi falar - 3/10         |
+| Ollama                  | Uso com ajuda - 5/10      |
+| MySQL                   | Uso com autonomia - 7/10  |
+| JavaFX                  | Uso com autonomia - 6/10  |
+| Git / GitHub            | Uso com autonomia - 7/10  |
+| Jira                    | Uso com autonomia - 6/10  |
+| Figma                   | Uso com autonomia - 8/10  |
+| Krita                   | Uso com autonomia - 7/10  |
+| Visual Studio Code      | Uso com autonomia - 8/10  |
 
-### Soft Skills
-- **Comunicação**:  
-  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+### 🧠 Soft Skills
+- **🚀 Proatividade**:  
+Durante o segundo semestre, nossa turma foi introduzida ao Java, mas, em meio ao API, nos deparamos com um uso específico da linguagem ao qual não havíamos sido introduzidos ainda, e nenhum integrante possuia conhecimento prévio sobre ele: desenvolvimento de interfaces gráficas. Como eu já demonstrava maior interesse por frontend e design de interfaces, fiquei responsável por aprender e conduzir as tarefas relacionadas ao JavaFX. Para isso, busquei conteúdos de forma autônoma, assistindo a vídeos e estudando o uso da ferramenta Scene Builder para compreender a estruturação das telas da aplicação. Além de representar um grande desafio técnico, essa experiência reforçou minha iniciativa em aprender novas tecnologias e assumir responsabilidades importantes para o desenvolvimento do projeto.
 
-- **Trabalho em equipe**:  
-  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+- **👍 Atitude Positiva**:  
+Durante o segundo semestre, nossa equipe precisou utilizar o Jira como ferramenta de gerenciamento de tarefas em substituição ao GitHub Projects, e acabei reconhecendo que tinha uma forte preferência pela ferramenta substituída. Apesar da dificuldade para compreender completamente o funcionamento e o fluxo de uso do Jira, procurei encarar essa mudança de forma positiva, entendendo-a como uma oportunidade de adaptação e aprendizado dentro de um ambiente colaborativo.
 
-- **Resolução de problemas**:  
-  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
+- **🤝 Trabalho em Equipe**:  
+Durante o desenvolvimento do “IDScan”, fui a principal responsável por transformar o protótipo visual em telas funcionais integradas aos dados reais do sistema. Como o projeto envolvia diferentes frentes de desenvolvimento, como OCR, modelos de linguagem e banco de dados, foi necessário manter alinhamento constante com os demais integrantes da equipe para compreender como as informações seriam processadas e exibidas na aplicação. Essa experiência reforçou minha capacidade de colaboração em projetos com responsabilidades técnicas divididas entre diferentes áreas.
  
 </details>
 
@@ -183,7 +202,9 @@ Profissionais como economistas, gestores públicos e empresas enfrentam certas d
 Desenvolver uma plataforma web sobre comércio exterior que solucione todas essas dores. 
 
 **Solução:**  
-Foi desenvolvido o “InsightFlow"
+Foi desenvolvido o “InsightFlow".
+(Foi desenvolvida uma plataforma web que centraliza dados de importação e exportação do Brasil (2014-2024), oferecendo painéis interativos, busca por código NCM, comparações entre estados e análises estatísticas avançadas (regressão linear, HHI, volatilidade, taxa de crescimento mensal, sazonalidade e concentração por país, estado e NCM). Foi implementado um modelo SARIMA para previsão de tendências com 24 meses de antecedência. O backend é uma REST API em Flask/Python que serve dados de um PostgreSQL com aproximadamente 30 milhões de registros, com camada de cache em Redis para operações pesadas e uma arquitetura totalmente dockerizada. O frontend é uma SPA em React + TypeScript + Vite com estilização em Tailwind, consumindo a API via HTTP.)
+(Exemplos de gráficos na aplicação: A página de análise de estados, que foi detalhada nas contribuições pessoais, também possui gráficos de análises estatísticas de valor fob e de balança comercial, e ambos podem ser filtrados por regressão linear, volatilidade ou crescimento mensal. Também há uma página de rankeamentos, onde podemos visualizar rankings dos estados que mais exportam, dos países para os quais o Brasil mais exportou, dos NCMs que foram mais exportados, dos SH4s que foram mais exportados e dos setores com mais exportações, por valor FOB e por valor agregado. Também há a página de séries históricas e análises de tendências. Ela apresenta dados fixos até 2024 e previsões até pouco depois de janeiro de 2026. É possível ter uma visão geral ou inserir um SH4, NCM, país e/ou estado específico.)
 
 <img src="./img/API3-logo.png" width="400">
 <br/>
@@ -192,48 +213,83 @@ Foi desenvolvido o “InsightFlow"
 Para mais informações, o repositório principal do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
 
 
-### Tecnologias Utilizadas
-| Nome       | Descrição                                              |
-|------------|--------------------------------------------------------|
-| Java 17    | Estruturação de páginas web                            |
-| CSS3       | Estilização das páginas web                            |
-| JavaScript | Adicionar dinamismo/comportamento às páginas            |
-| Bootstrap  | Framework CSS que facilita a estilização               |
-| Python     | Linguagem de programação usada no backend               |
-| Flask      | Microframework web usado como base da aplicação         |
-| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
-| Heroku     | Serviço usado para hospedar o backend                   |
-| GitHub     | Usado para versionamento da aplicação                   |
-| Figma      | Usado para desenvolver o MVP do projeto                 |
+### 💻 Tecnologias Utilizadas
+| Nome             | Descrição                                              |
+|------------------|--------------------------------------------------------|
+| Python           | Linguagem do backend, pipeline de dados e análises estatísticas      |
+| Jupyter Notebook | Prototipação e iteração do pipeline de limpeza e tratamento dos dados do ComexStat         |
+| Pandas           | Tratamento, limpeza e agregação dos datasets brutos do governo     |
+| NumPy            | Operações numéricas vetorizadas usadas pelas análises estatísticas              |
+| Scikit-learn     | Apoio à modelagem das análises estatísticas (regressão linear)           |
+| StatsModels      | Implementação do modelo SARIMA e demais análises temporais     |
+| Flask            | REST API que serve dados e análises ao frontend         |
+| PostgreSQL       | Banco relacional com aproximadamente 30M de registros, índices e materialized views para agregações pesadas     |
+| Redis            | Cache para resultados de operações de rankeamento que excedem o limite de 1 segundo de tempo de resposta    |
+| Docker           | Containerização da aplicação para deploy reproduzível   |
+| AWS              | Serviço usado para hospedagem da aplicação              |
+| TypeScript       | Tipagem estática no frontend                            |
+| React            | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis    |
+| Vite             | Build e dev server do frontend                          |
+| TailwindCSS      | Framework para estilização utilitária e responsiva      |
+| Git/GitHub       | Colaboração simultânea                                  |
+| Figma            | Desenvolvimento dos wireframes do MVP do projeto        |
+| Krita            | Desenhar o logo da aplicação                            |
+| Jira             | Gestão de tarefas e burndown                            |
+| Visual Studio Code   | Desenvolvimento e versionamento de código           |
 
-### Contribuições Pessoais
-Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
-- Elaborei e desenhei o logo da aplicação.
-- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
-- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
-- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
-- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
-- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
-- Elaboração do texto disponível para consulta antes de um quiz
-- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
+### 🎯 Contribuições Pessoais
+Atuei como integrante do time de desenvolvimento (Dev Team) durante o terceiro semestre, contribuindo principalmente nas áreas de interface, visualização de dados e padronização visual da plataforma.
 
-### Hard Skills
-| Skill          |  Proficiência |  Descrição                                                |
-|----------------|---------------|-----------------------------------------------------------|
-| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
-| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
-| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
-| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+- Elaboração do logotipo da aplicação.
+- Criação do protótipo visual no Figma, utilizado como base para a identidade visual e estrutura das páginas do sistema.
+- Desenvolvimento do VPC (Value Proposition Canvas) da solução, documentando visualmente o perfil do cliente, suas dores, ganhos e a proposta de valor da aplicação.
+- Implementação de componentes reutilizáveis da interface, incluindo navbar e rodapé responsivos e compatíveis com diferentes dispositivos.
+- Contribuição na padronização visual e estilização geral das páginas da plataforma.
+- Implementação de ajustes de responsividade para garantir a correta visualização do sistema em diferentes tamanhos de tela.
+- Desenvolvimento dos códigos responsáveis pela estruturação dos setores econômicos exibidos nos gráficos da aplicação por meio de arquivos JSON.
+- Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
-### Soft Skills
-- **Comunicação**:  
-  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+Minhas principais contribuições estiveram concentradas na página de Análise de Estados:
 
-- **Trabalho em equipe**:  
-  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+- Desenvolvimento e integração ao backend do mapa de calor do Brasil, no qual as cores dos estados variavam de acordo com a balança comercial calculada a partir da relação entre exportações e importações.
+- Implementação da linha do tempo interativa utilizada para filtrar os dados exibidos entre os anos de 2014 e 2024.
+- Desenvolvimento e integração de um modal de informações exibido ao selecionar um estado no mapa, contendo dados como capital, área territorial, PIB e valores movimentados em importações e exportações.
+- Criação e integração dos gráficos de Exportações vs Importações, tanto na visão geral do estado quanto segmentados por setores econômicos, incluindo agronegócio, bens de consumo, indústria, mineração, setor industrial e tecnologia.
 
-- **Resolução de problemas**:  
-  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
+### ⚙️ Hard Skills
+| Skill                   |  Proficiência             |
+|-------------------------|---------------------------|
+| Python                  | Uso com autonomia - 7/10  |
+| Jupyter Notebook        | Ouvi falar - 2/10         |
+| Pandas                  | Ouvi falar - 3/10         |
+| NumPy                   | Ouvi falar - 2/10         |
+| Scikit-learn            | Ouvi falar - 3/10         |
+| StatsModels             | Ouvi falar - 3/10         |
+| Flask                   | Uso com autonomia - 6/10  |
+| PostgreSQL              | Uso com autonomia - 6/10  |
+| Redis                   | Ouvi falar - 3/10         |
+| Docker                  | Uso com ajuda - 5/10      |
+| AWS                     | Uso com autonomia - 6/10  |
+| TypeScript              | Uso com autonomia - 6/10  |
+| React                   | Uso com autonomia - 7/10  |
+| Vite                    | Uso com autonomia - 6/10  |
+| TailwindCSS             | Uso com autonomia - 8/10  |
+| Git/GitHub              | Uso com autonomia - 7/10  |
+| Figma                   | Uso com autonomia - 8/10  |
+| Krita                   | Uso com autonomia - 7/10  |
+| Jira                    | Uso com autonomia - 6/10  |
+| Visual Studio Code      | Uso com autonomia - 8/10  |
+
+### 🧠 Soft Skills
+- **🤹 Flexibilidade**:  
+Em meio ao terceiro API, nossa equipe passou por uma redução significativa de integrantes ao longo do semestre, incluindo a saída da Scrum Master original do grupo. Com isso, os membros que permaneceram precisaram assumir novas responsabilidades e redistribuir as tarefas de forma estratégica para manter o andamento do projeto. Essa situação exigiu adaptação constante diante das mudanças na dinâmica da equipe, além de maior organização e colaboração entre os integrantes restantes. A experiência fortaleceu minha capacidade de lidar com mudanças inesperadas e me adaptar a cenários desafiadores dentro de um ambiente de trabalho em equipe.
+
+- **🚀 Proatividade**:  
+Como o produto desse terceiro semestre estava relacionado à área de comércio exterior, precisei buscar noções básicas sobre conceitos que até então eram desconhecidos para mim, como FOB, índice HHI, NCM e valor agregado. Apesar de não ser necessário um entendimento aprofundado sobre a área, percebi a importância de compreender minimamente esses termos para conseguir interpretar corretamente as necessidades do projeto e contribuir de forma mais eficiente para o desenvolvimento da solução.
+
+- **💡 Criatividade**:  
+Nossa equipe precisou definir cuidadosamente quais informações seriam mais relevantes para apresentar aos usuários e de que maneira elas seriam exibidas na plataforma. Durante as discussões iniciais, exercitamos bastante a criatividade na escolha das funcionalidades do sistema e na definição dos gráficos e indicadores que fariam parte da aplicação, já que o tema "comércio exterior" permite diferentes abordagens e interpretações. Além disso, também fui responsável pela criação do protótipo visual no Figma, o que exigiu ainda mais criatividade na construção de uma interface organizada, intuitiva e visualmente agradável para os usuários.
+
 </details>
 
 <details> 
@@ -251,14 +307,14 @@ Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunin
 **Solução:**  
 Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
-<img src="./img/API1-logo.png" width="400">
+<img src="./img/API4-logo.png" width="400">
 <br/>
 <br/>
 
 Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
 
 
-### Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
 | HTML5      | Estruturação de páginas web                            |
@@ -272,7 +328,7 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | GitHub     | Usado para versionamento da aplicação                   |
 | Figma      | Usado para desenvolver o MVP do projeto                 |
 
-### Contribuições Pessoais
+### 🎯 Contribuições Pessoais
 Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaborei e desenhei o logo da aplicação.
 - Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
@@ -283,7 +339,7 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaboração do texto disponível para consulta antes de um quiz
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
-### Hard Skills
+### ⚙️ Hard Skills
 | Skill          |  Proficiência |  Descrição                                                |
 |----------------|---------------|-----------------------------------------------------------|
 | HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
@@ -291,7 +347,7 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 | JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
 | Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
 
-### Soft Skills
+### 🧠 Soft Skills
 - **Comunicação**:  
   Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
 
@@ -324,7 +380,7 @@ Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de S
 Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
 
 
-### Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
 | HTML5      | Estruturação de páginas web                            |
@@ -338,7 +394,7 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | GitHub     | Usado para versionamento da aplicação                   |
 | Figma      | Usado para desenvolver o MVP do projeto                 |
 
-### Contribuições Pessoais
+### 🎯 Contribuições Pessoais
 Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaborei e desenhei o logo da aplicação.
 - Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
@@ -349,7 +405,7 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Elaboração do texto disponível para consulta antes de um quiz
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
-### Hard Skills
+### ⚙️ Hard Skills
 | Skill          |  Proficiência |  Descrição                                                |
 |----------------|---------------|-----------------------------------------------------------|
 | HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
@@ -357,7 +413,7 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 | JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
 | Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
 
-### Soft Skills
+### 🧠 Soft Skills
 - **Comunicação**:  
   Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
 
@@ -367,6 +423,4 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - **Resolução de problemas**:  
   Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
 </details>
-
-[GIT](https://www.git.com)
 
