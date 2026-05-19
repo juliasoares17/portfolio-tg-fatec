@@ -1,7 +1,7 @@
 # Portfólio - Julia Soares Pereira
 
 ## 👤 Introdução
-<img align="left" src="./img/foto_juliaPereira.jpg" alt="foto" width="30%" >
+<img align="left" src="./img/foto_juliaPereira.jpg" alt="foto" width="27%" >
 Me chamo Julia Soares Pereira, tenho 20 anos de idade e atualmente estou no caminho para concluir o curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal. Finalizei o Ensino Fundamental e Médio na Escola Walter Fortunato, finalizando o Ensino Médio em 2023 e ingressando na graduação no primeiro semestre de 2024. Esta é minha primeira graduação após sair do colégio.
 
 Apesar de meu primeiro contato técnico com programação ter acontecido por meio de um curso de Lógica de Programação oferecido pelo Senai “Santos Dumont”, concluído em julho de 2023, a ideia de seguir na área da tecnologia surgiu ainda durante o Ensino Médio. Na época, eu buscava uma segunda possibilidade de carreira além da dança, atividade que também faz parte da minha trajetória pessoal. Atualmente, integro um grupo avançado de sapateado americano, participando de competições e apresentações em eventos, muitas vezes remuneradas. Sempre tive interesse em construir uma carreira mais independente dentro da dança, ministrando workshops e desenvolvendo meu próprio reconhecimento na área, mas também percebia a necessidade de possuir um plano profissional mais estável e seguro.
