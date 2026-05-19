@@ -202,7 +202,7 @@ Profissionais como economistas, gestores públicos e empresas enfrentam certas d
 Desenvolver uma plataforma web sobre comércio exterior que solucione todas essas dores. 
 
 **Solução:**  
-Foi criado o “InsightFlow”, plataforma web voltada à análise do comércio exterior brasileiro entre 2014 e 2024. O site disponibiliza rankings, consultas e análises estatísticas por estados, países, setores, SH4s e códigos NCM, além de mapa de calor da balança comercial e gráficos com regressão linear, volatilidade e crescimento mensal. O backend está em Python com Flask e utilizando PostgreSQL e Redis, enquanto o frontend usa React, TypeScript, Vite e TailwindCSS. A aplicação possui arquitetura dockerizada e integração com um modelo SARIMA para previsão de tendências.
+Foi criado o “InsightFlow”, plataforma web voltada à análise do comércio exterior brasileiro entre 2014 e 2024. O site disponibiliza rankings, consultas e análises estatísticas por estados, países e setores, além de mapa de calor da balança comercial e gráficos com regressão linear, volatilidade e crescimento mensal. O backend está em Python com Flask, utilizando PostgreSQL e Redis, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A aplicação possui arquitetura dockerizada e integração com modelo SARIMA para previsão de tendências.
 
 <img src="./img/API3-logo.png" width="400">
 <br/>
