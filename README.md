@@ -69,7 +69,6 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Git / GitHub     | Colaboração simultânea e gestão do projeto            |
 | Figma      | Desenvolvimento dos wireframes do MVP do projeto                 |
 | Krita      | Desenhar o logo da aplicação                 |
-| Visual Studio Code      | Desenvolvimento e versionamento de código          |
 
 ### 🎯 Contribuições Pessoais
 Atuei como integrante do time de desenvolvimento (Dev Team) durante o primeiro semestre, contribuindo principalmente nas áreas de conteúdo, experiência do usuário e interface da plataforma.
@@ -99,7 +98,6 @@ Atuei como integrante do time de desenvolvimento (Dev Team) durante o primeiro s
 | Git / GitHub        | Uso com autonomia - 8/10        |
 | Figma               | Uso com autonomia - 8/10        |
 | Krita               | Uso com autonomia - 7/10        |
-| Visual Studio Code  | Uso com autonomia - 8/10        |
 
 ### 🧠 Soft Skills
 - **🌱 Resiliência**:
@@ -137,17 +135,17 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 ### 💻 Tecnologias Utilizadas
 | Nome       | Descrição                                              |
 |------------|--------------------------------------------------------|
-| Java 17    | Linguagem de programação principal                     |
+| Java       | Linguagem de programação principal                     |
 | Maven      | Gerenciamento de dependências e build                  |
 | Tesseract OCR | Reconhecimento óptico de caracteres das imagens     |
 | Ollama     | Execução local de modelos para interpretação dos campos extraídos |
 | MySQL      | Banco de dados relacional local para persistência dos documentos  |
 | JavaFX     | Construção visual das telas da aplicação               |
+| Scene Builder | Estruturação visual e prototipagem das interfaces em JavaFX |
 | Git / GitHub     | Colaboração simultânea                           |
 | Jira     | Gestão de tarefas e burndown                                  |
 | Figma      | Desenvolvimento dos wireframes do MVP do projeto                 |
 | Krita      | Desenhar o logo da aplicação                 |
-| Visual Studio Code      | Desenvolvimento e versionamento de código          |
 
 ### 🎯 Contribuições Pessoais
 Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o segundo API, sendo responsável principalmente pelas funcionalidades relacionadas à interface gráfica da aplicação em JavaFX.
@@ -165,17 +163,17 @@ Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o 
 ### ⚙️ Hard Skills
 | Skill                   |  Proficiência             |
 |-------------------------|---------------------------|
-| Java 17                 | Uso com ajuda - 5/10      |
+| Java                    | Uso com autonomia - 6/10  |
 | Maven                   | Ouvi falar - 2/10         |
 | Tesseract OCR           | Ouvi falar - 3/10         |
 | Ollama                  | Uso com ajuda - 5/10      |
 | MySQL                   | Uso com autonomia - 7/10  |
-| JavaFX                  | Uso com autonomia - 6/10  |
+| JavaFX                  | Uso com autonomia - 7/10  |
+| Scene Builder           | Uso com autonomia - 7/10  |
 | Git / GitHub            | Uso com autonomia - 7/10  |
 | Jira                    | Uso com autonomia - 6/10  |
 | Figma                   | Uso com autonomia - 8/10  |
 | Krita                   | Uso com autonomia - 7/10  |
-| Visual Studio Code      | Uso com autonomia - 8/10  |
 
 ### 🧠 Soft Skills
 - **🚀 Proatividade**:  
@@ -208,7 +206,7 @@ Foi criado o “InsightFlow”, plataforma web voltada à análise do comércio 
 <br/>
 <br/>
 
-Para mais informações, o repositório principal do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+Para mais informações, o repositório principal do projeto está disponível [aqui](https://github.com/Titus-System/InsightFlow).
 
 
 ### 💻 Tecnologias Utilizadas
@@ -233,7 +231,6 @@ Para mais informações, o repositório principal do projeto está disponível [
 | Figma            | Desenvolvimento dos wireframes do MVP do projeto        |
 | Krita            | Desenhar o logo da aplicação                            |
 | Jira             | Gestão de tarefas e burndown                            |
-| Visual Studio Code   | Desenvolvimento e versionamento de código           |
 
 ### 🎯 Contribuições Pessoais
 Atuei como integrante do time de desenvolvimento (Dev Team) durante o terceiro semestre, contribuindo principalmente nas áreas de interface, visualização de dados e padronização visual da plataforma.
@@ -276,7 +273,6 @@ Minhas principais contribuições estiveram concentradas na página de Análise 
 | Figma                   | Uso com autonomia - 8/10  |
 | Krita                   | Uso com autonomia - 7/10  |
 | Jira                    | Uso com autonomia - 6/10  |
-| Visual Studio Code      | Uso com autonomia - 8/10  |
 
 ### 🧠 Soft Skills
 - **🤹 Flexibilidade**:  
@@ -309,22 +305,35 @@ Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de S
 <br/>
 <br/>
 
-Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
+Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/Nexa).
 
 
 ### 💻 Tecnologias Utilizadas
-| Nome       | Descrição                                              |
-|------------|--------------------------------------------------------|
-| HTML5      | Estruturação de páginas web                            |
-| CSS3       | Estilização das páginas web                            |
-| JavaScript | Adicionar dinamismo/comportamento às páginas            |
-| Bootstrap  | Framework CSS que facilita a estilização               |
-| Python     | Linguagem de programação usada no backend               |
-| Flask      | Microframework web usado como base da aplicação         |
-| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
-| Heroku     | Serviço usado para hospedar o backend                   |
-| GitHub     | Usado para versionamento da aplicação                   |
-| Figma      | Usado para desenvolver o MVP do projeto                 |
+| Nome                       | Descrição                                                           |
+|----------------------------|---------------------------------------------------------------------|
+| Python                     | Linguagem do backend e do serviço de IA                             |
+| Pytest                     | Testes automatizados do backend                                     |
+| Pydantic                   | Validação e tipagem dos dados de entrada/saída                      |
+| Flask/Flask-RESTful        | API REST do orquestrador (Nexa-api)                                 |
+| Flask-SocketIO             | Comunicação WebSocket em tempo real com o frontend                  |
+| Socket.IO-client           | Recepção de eventos de progresso em tempo real                      |
+| Celery                     | Fila de tarefas assíncronas para processamento pesado               |
+| PostgreSQL                 | Banco relacional para usuários, operações e resultados              |
+| Redis                      | Broker do Celery, cache e Pub/Sub entre Nexa-api e Nexa-AI-Agents   |
+| SQLAlchemy                 | ORM para persistência no PostgreSQL                                 |
+| Ollama                     | Execução local do modelo qwen2.5:14b                                |
+| smol-agents                | Framework para criação dos agentes de IA                            |
+| ChromaDB                   | Banco vetorial para RAG (Retrieval-Augmented Generation)            |
+| PDFPlumber                 | Extração de part-numbers de PDFs de pedido de compra                |
+| React                      | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis  |
+| TypeScript                 | Tipagem estática no frontend                                        |
+| Vite                       | Build e dev server do frontend                                      |
+| TailwindCSS                | Framework para estilização utilitária e responsiva                  |
+| Docker / Docker Compose    | Containerização e orquestração local dos serviços                   |
+| Gunicorn                   | 	Servidor de produção do backend                                    |
+| Git/GitHub                 | Colaboração simultânea                                              |
+| Figma                      | Desenvolvimento dos wireframes do MVP do projeto                    |
+| Jira                       | Gestão de tarefas e burndown                                        |
 
 ### 🎯 Contribuições Pessoais
 Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
@@ -338,12 +347,31 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
 ### ⚙️ Hard Skills
-| Skill          |  Proficiência |  Descrição                                                |
-|----------------|---------------|-----------------------------------------------------------|
-| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
-| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
-| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
-| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
+| Skill                   |  Proficiência             |
+|-------------------------|---------------------------|
+| Python                     | Linguagem do backend e do serviço de IA                             |
+| Pytest                     | Testes automatizados do backend                                     |
+| Pydantic                   | Validação e tipagem dos dados de entrada/saída                      |
+| Flask/Flask-RESTful        | API REST do orquestrador (Nexa-api)                                 |
+| Flask-SocketIO             | Comunicação WebSocket em tempo real com o frontend                  |
+| Socket.IO-client           | Recepção de eventos de progresso em tempo real                      |
+| Celery                     | Fila de tarefas assíncronas para processamento pesado               |
+| PostgreSQL                 | Banco relacional para usuários, operações e resultados              |
+| Redis                      | Broker do Celery, cache e Pub/Sub entre Nexa-api e Nexa-AI-Agents   |
+| SQLAlchemy                 | ORM para persistência no PostgreSQL                                 |
+| Ollama                     | Execução local do modelo qwen2.5:14b                                |
+| smol-agents                | Framework para criação dos agentes de IA                            |
+| ChromaDB                   | Banco vetorial para RAG (Retrieval-Augmented Generation)            |
+| PDFPlumber                 | Extração de part-numbers de PDFs de pedido de compra                |
+| React                      | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis  |
+| TypeScript                 | Tipagem estática no frontend                                        |
+| Vite                       | Build e dev server do frontend                                      |
+| TailwindCSS                | Framework para estilização utilitária e responsiva                  |
+| Docker / Docker Compose    | Containerização e orquestração local dos serviços                   |
+| Gunicorn                   | 	Servidor de produção do backend                                    |
+| Git/GitHub                 | Colaboração simultânea                                              |
+| Figma                      | Desenvolvimento dos wireframes do MVP do projeto                    |
+| Jira                       | Gestão de tarefas e burndown                                        |
 
 ### 🧠 Soft Skills
 - **Comunicação**:  
