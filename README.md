@@ -298,16 +298,16 @@ Nossa equipe precisou definir cuidadosamente quais informações seriam mais rel
 A empresa cliente importava muitos produtos do exterior, principalmente componentes eletrônicos, que exigiam a criação de declarações detalhadas para a Receita Federal. Esse processo era realizado manualmente pelos analistas fiscais, que precisavam consultar diferentes fontes para relacionar informações como part-number, fabricante, país de origem e classificação fiscal (NCM) de cada item importado. Além disso tornar o processo lento e cansativo, a dependência exclusiva da atividade humana aumentava significativamente o risco de inconsistências, erros nas descrições e possíveis multas ou atrasos nos processos aduaneiros.
 
 **Objetivo:**  
-Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
+Desenvolver uma solução capaz de automatizar a criação de declarações aduaneiras para a Receita Federal, reduzindo o tempo gasto pelos analistas e minimizando riscos de inconsistências no processo. A aplicação deve gerar descrições completas dos produtos importados a partir de suas informações, garantindo maior clareza na identificação dos itens declarados. Dessa forma, garante-se um processo mais eficiente, padronizado e menos suscetível a questionamentos, penalidades ou multas.
 
 **Solução:**  
-Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
+Foi desenvolvido o “Nexa”, uma aplicação web voltada à criação automática de descrições aduaneiras para produtos importados. O sistema recebe part-numbers individuais ou extraídos de PDFs de pedidos de compra e gera automaticamente informações como descrição técnica, classificação fiscal (NCM) e alíquota do produto. A arquitetura da aplicação foi dividida em serviços independentes responsáveis pela orquestração das requisições, pesquisas automatizadas e acompanhamento em tempo real do processamento das tarefas. O backend está em Python com Flask, utilizando PostgreSQL, Redis e Celery, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A solução também integrou agentes baseados em smol-agents, Ollama e ChromaDB para pesquisa e organização inteligente das informações coletadas.
 
 <img src="./img/API4-logo.png" width="400">
 <br/>
 <br/>
 
-Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/Nexa).
+Para mais informações, o repositório principal do projeto está disponível [aqui](https://github.com/Titus-System/Nexa).
 
 
 ### 💻 Tecnologias Utilizadas
@@ -339,15 +339,12 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | Jira                       | Gestão de tarefas e burndown                                        |
 
 ### 🎯 Contribuições Pessoais
-Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
-- Elaborei e desenhei o logo da aplicação.
-- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
-- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
-- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
-- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
-- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
-- Elaboração do texto disponível para consulta antes de um quiz
-- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
+Atuei como Scrum Master pela primeira vez no quarto semestre.
+
+- Criação do protótipo visual no Figma, utilizado como base para a identidade visual e estrutura das páginas do sistema.
+- Modo claro e modo escuro da aplicação
+- 
+- Integração das funcionalidades de login, logout e cadastro entre back e frontend
 
 ### ⚙️ Hard Skills
 | Skill                      |  Proficiência             |
@@ -387,71 +384,5 @@ O quarto semestre marcou minha primeira experiência atuando como Scrum Master, 
 - **⚖️ Ética no Trabalho**:  
 Por se tratar do primeiro projeto desenvolvido para uma empresa externa e envolvendo documentos relacionados à Receita Federal, o quarto semestre exigiu bastante responsabilidade da equipe em relação à precisão das informações processadas pela aplicação. Buscamos manter cuidado constante na implementação das funcionalidades e na validação dos resultados apresentados ao cliente. Essa experiência reforçou minha percepção sobre a importância da responsabilidade e do comprometimento profissional no desenvolvimento de soluções voltadas a contextos reais.
 
-</details>
-
-<details> 
-<summary>5° Semestre (2026-1) | SyncDesk</summary>
-
-**Conclusão (Previsão):** *Junho/2026*  
-**Empresa:** Pro4Tech, empresa de tecnologia e consultoria especializada em transformação digital - Larissa Souza e Rafael Monteiro.
-
-**Problema:**  
-O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
-
-**Objetivo:**  
-Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
-
-**Solução:**  
-Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
-
-<img src="./img/API1-logo.png" width="400">
-<br/>
-<br/>
-
-Para mais informações, o repositório do projeto está disponível [aqui](https://github.com/Titus-System/1Semestre-ADS).
-
-
-### 💻 Tecnologias Utilizadas
-| Nome       | Descrição                                              |
-|------------|--------------------------------------------------------|
-| HTML5      | Estruturação de páginas web                            |
-| CSS3       | Estilização das páginas web                            |
-| JavaScript | Adicionar dinamismo/comportamento às páginas            |
-| Bootstrap  | Framework CSS que facilita a estilização               |
-| Python     | Linguagem de programação usada no backend               |
-| Flask      | Microframework web usado como base da aplicação         |
-| MySQL      | Banco de dados relacional para armazenar dados de usuários e login do técnico |
-| Heroku     | Serviço usado para hospedar o backend                   |
-| GitHub     | Usado para versionamento da aplicação                   |
-| Figma      | Usado para desenvolver o MVP do projeto                 |
-
-### 🎯 Contribuições Pessoais
-Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
-- Elaborei e desenhei o logo da aplicação.
-- Escrita da apostila, ou seja, do documento de onde vem todo o conteúdo teórico da plataforma.
-- Escrita do guia prático, que explica para o usuário como utilizar os recursos do site.
-- Elaboração de mensagens explicativas para quando o usuário respondesse uma questão incorretamente.
-- Programação da lógica por trás dos dois tipos diferenciados de perguntas, para que os quizes não fossem apenas múltipla escolha e se tornassem mais interessantes e dinâmicos: criei as questões de associação e as de verdadeiro ou falso
-- Estilização visual das páginas e dos diferentes tipos de questões (associação, verdadeiro ou falso ou múltipla escolha) dos sistemas de quizes e de avaliação final.
-- Elaboração do texto disponível para consulta antes de um quiz
-- Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
-
-### ⚙️ Hard Skills
-| Skill          |  Proficiência |  Descrição                                                |
-|----------------|---------------|-----------------------------------------------------------|
-| HTML5          | 9/10          | Estruturar páginas web, usar elementos semânticos e aplicar técnicas de formatação e layout. |
-| CSS3           | 9/10          | Estilizar páginas web aplicando técnicas de layout responsivo. |
-| JavaScript DOM | 6/10          | Usar o JavaScript DOM para alterar elementos na aplicação web e exibir dinamicamente o conteúdo desejado. |
-| Git            | 8/10          | Trabalhar com versionamento de código, dividindo o projeto em branches para melhor organização. |
-
-### 🧠 Soft Skills
-- **Comunicação**:  
-  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
-
-- **Trabalho em equipe**:  
-  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
-
-- **Resolução de problemas**:  
-  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
 </details>
 
