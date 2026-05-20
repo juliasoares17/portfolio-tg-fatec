@@ -248,7 +248,7 @@ Atuei como integrante do time de desenvolvimento (Dev Team) durante o terceiro s
 Minhas principais contribuições estiveram concentradas na página de Análise de Estados:
 
 - Desenvolvimento e integração ao backend do mapa de calor do Brasil, no qual as cores dos estados variavam de acordo com a balança comercial calculada a partir da relação entre exportações e importações. O visual do mapa foi criado por meio da biblioteca Leaflet do React.
-- Implementação da linha do tempo interativa utilizada para filtrar os dados exibidos entre os anos de 2014 e 2024.
+- Implementação com TypeScript da linha do tempo interativa utilizada para filtrar os dados exibidos entre os anos de 2014 e 2024.
 - Desenvolvimento visual e integração de um modal de informações exibido ao selecionar um estado no mapa, contendo dados como capital, área territorial, PIB e valores movimentados em importações e exportações.
 - Criação (com a biblioteca Recharts do React) e integração dos gráficos de Exportações vs Importações, tanto na visão geral do estado quanto segmentados por setores econômicos, incluindo agronegócio, bens de consumo, indústria, mineração, setor industrial e tecnologia.
 
