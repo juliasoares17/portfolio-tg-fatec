@@ -223,6 +223,7 @@ Para mais informações, o repositório principal do projeto está disponível [
 | Redis            | Cache para resultados de operações de rankeamento que excedem o limite de 1 segundo de tempo de resposta    |
 | Docker           | Containerização da aplicação para deploy reproduzível   |
 | AWS              | Serviço usado para hospedagem da aplicação              |
+| HTML5            | Estruturação das páginas web                            |
 | TypeScript       | Tipagem estática no frontend                            |
 | React            | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis    |
 | Vite             | Build e dev server do frontend                          |
@@ -265,6 +266,7 @@ Minhas principais contribuições estiveram concentradas na página de Análise 
 | Redis                   | Ouvi falar - 3/10         |
 | Docker                  | Uso com ajuda - 5/10      |
 | AWS                     | Uso com autonomia - 6/10  |
+| HTML5                   | Consigo ensinar - 9/10    | 
 | TypeScript              | Uso com autonomia - 6/10  |
 | React                   | Uso com autonomia - 7/10  |
 | Vite                    | Uso com autonomia - 6/10  |
@@ -293,7 +295,7 @@ Nossa equipe precisou definir cuidadosamente quais informações seriam mais rel
 **Empresa:** TecSys Brasil, empresa de comércio exterior e soluções fiscais - Creonice Honório.
 
 **Problema:**  
-O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
+A empresa cliente importava muitos produtos do exterior, principalmente componentes eletrônicos, que exigiam a criação de declarações detalhadas para a Receita Federal. Esse processo era realizado manualmente pelos analistas fiscais, que precisavam consultar diferentes fontes para relacionar informações como part-number, fabricante, país de origem e classificação fiscal (NCM) de cada item importado. Além disso tornar o processo lento e cansativo, a dependência exclusiva da atividade humana aumentava significativamente o risco de inconsistências, erros nas descrições e possíveis multas ou atrasos nos processos aduaneiros.
 
 **Objetivo:**  
 Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunindo conteúdos teóricos, referências e exemplos práticos em um ambiente acessível e intuitivo. O sistema deveria apresentar os principais elementos do framework de forma organizada e didática, proporcionando uma experiência de aprendizado mais dinâmica e eficiente aos usuários. 
@@ -325,6 +327,7 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 | smol-agents                | Framework para criação dos agentes de IA                            |
 | ChromaDB                   | Banco vetorial para RAG (Retrieval-Augmented Generation)            |
 | PDFPlumber                 | Extração de part-numbers de PDFs de pedido de compra                |
+| HTML5                      | Estruturação das páginas web                                        |
 | React                      | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis  |
 | TypeScript                 | Tipagem estática no frontend                                        |
 | Vite                       | Build e dev server do frontend                                      |
@@ -347,48 +350,50 @@ Atuei como parte do time de desenvolvimento (Dev Team) no primeiro semestre.
 - Criação das páginas de conteúdo que são exibidas em meio às perguntas dos quizes
 
 ### ⚙️ Hard Skills
-| Skill                   |  Proficiência             |
-|-------------------------|---------------------------|
-| Python                     | Linguagem do backend e do serviço de IA                             |
-| Pytest                     | Testes automatizados do backend                                     |
-| Pydantic                   | Validação e tipagem dos dados de entrada/saída                      |
-| Flask/Flask-RESTful        | API REST do orquestrador (Nexa-api)                                 |
-| Flask-SocketIO             | Comunicação WebSocket em tempo real com o frontend                  |
-| Socket.IO-client           | Recepção de eventos de progresso em tempo real                      |
-| Celery                     | Fila de tarefas assíncronas para processamento pesado               |
-| PostgreSQL                 | Banco relacional para usuários, operações e resultados              |
-| Redis                      | Broker do Celery, cache e Pub/Sub entre Nexa-api e Nexa-AI-Agents   |
-| SQLAlchemy                 | ORM para persistência no PostgreSQL                                 |
-| Ollama                     | Execução local do modelo qwen2.5:14b                                |
-| smol-agents                | Framework para criação dos agentes de IA                            |
-| ChromaDB                   | Banco vetorial para RAG (Retrieval-Augmented Generation)            |
-| PDFPlumber                 | Extração de part-numbers de PDFs de pedido de compra                |
-| React                      | Biblioteca para estruturar a interface da aplicação com componentes reutilizáveis  |
-| TypeScript                 | Tipagem estática no frontend                                        |
-| Vite                       | Build e dev server do frontend                                      |
-| TailwindCSS                | Framework para estilização utilitária e responsiva                  |
-| Docker / Docker Compose    | Containerização e orquestração local dos serviços                   |
-| Gunicorn                   | 	Servidor de produção do backend                                    |
-| Git/GitHub                 | Colaboração simultânea                                              |
-| Figma                      | Desenvolvimento dos wireframes do MVP do projeto                    |
-| Jira                       | Gestão de tarefas e burndown                                        |
+| Skill                      |  Proficiência             |
+|----------------------------|---------------------------|
+| Python                     | Uso com autonomia - 7/10  |
+| Pytest                     | Ouvi falar - 3/10         |
+| Pydantic                   | Ouvi falar - 3/10         |
+| Flask/Flask-RESTful        | Uso com ajuda - 4/10      |
+| Flask-SocketIO             | Uso com ajuda - 4/10      |
+| Socket.IO-client           | Ouvi falar - 3/10         |
+| Celery                     | Ouvi falar - 2/10         |
+| PostgreSQL                 | Uso com autonomia - 6/10  |
+| Redis                      | Uso com ajuda - 4/10      |
+| SQLAlchemy                 | Ouvi falar - 3/10         |
+| Ollama                     | Uso com ajuda - 5/10      |
+| smol-agents                | Uso com autonomia - 6/10  |
+| ChromaDB                   | Ouvi falar - 2/10         |
+| PDFPlumber                 | Ouvi falar - 3/10         |
+| HTML5                      | Consigo ensinar - 9/10    | 
+| React                      | Uso com autonomia - 7/10  |
+| TypeScript                 | Uso com autonomia - 6/10  |
+| Vite                       | Uso com autonomia - 6/10  |
+| TailwindCSS                | Uso com autonomia - 8/10  |
+| Docker / Docker Compose    | Uso com ajuda - 5/10      |
+| Gunicorn                   | Ouvi falar - 2/10         |
+| Git/GitHub                 | Uso com autonomia - 7/10  |
+| Figma                      | Uso com autonomia - 8/10  |
+| Jira                       | Uso com autonomia - 6/10  |
 
 ### 🧠 Soft Skills
-- **Comunicação**:  
-  Aprimorei minha capacidade de comunicar ideias com clareza e ouvir ativamente meus colegas de equipe em busca de consenso e soluções para os problemas impostos. Exemplo: quando precisávamos decidir o que seria melhor exibir na página inicial do app, concluímos que um "tutorial" de uso seria uma ótima escolha.
+- **👑 Liderança**:  
+Durante o quarto semestre, nossa equipe enfrentou a saída da integrante que atuava como Product Owner e que também era uma das únicas pessoas responsáveis pelo frontend da aplicação. Com isso, o grupo passou a contar com apenas quatro integrantes, ficando sob minha responsabilidade praticamente todas as questões relacionadas a estruturação e desenvolvimento das interfaces do sistema. Essa situação exigiu maior autonomia e senso de responsabilidade da minha parte, já que o andamento do frontend passou a depender principalmente do meu trabalho e da minha capacidade de organizar e conduzir essa área do projeto.
 
-- **Trabalho em equipe**:  
-  Desenvolvi uma melhor aptidão para trabalhar em equipe, combinando meus esforços com os dos outros e compensando falhas e fraquezas do grupo. Exemplo: ao decidir quais membros da equipe atuariam melhor no front-end e quais no back-end.
+- **🏷️ Organização**:  
+O quarto semestre marcou minha primeira experiência atuando como Scrum Master, o que me trouxe novas responsabilidades relacionadas à organização e ao acompanhamento das sprints. Nesse período, o formato do PACER passou por mudanças, incluindo uma nova escala de pontuação e um novo modelo de avaliação entre os próprios integrantes da equipe. Durante a primeira aplicação desse novo formato, percebi apenas no momento da entrega das notas que a nova pontuação variava de 1 a 4, e não mais de 1 a 3 como nos semestres anteriores. Precisei adaptar rapidamente as notas naquele momento de passá-las para o professor responsável, deixando-as mais condizentes com o novo modelo de pontuação. Apesar disso, consegui lidar com a situação de forma tranquila e, posteriormente, alinhei corretamente as novas regras com a equipe para evitar que o problema se repetisse nas demais sprints.
 
-- **Resolução de problemas**:  
-  Minha forma de enxergar problemas e apresentar soluções foi grandemente aprimorada. Tornei-me capaz de abordar um desafio grande, quebrando-o em partes menores e solucionando-as gradualmente. Também aprendi a priorizar soluções, focando naquelas que trariam maior valor ao cliente ou à pessoa com o problema.
+- **⚖️ Ética no Trabalho**:  
+Por se tratar do primeiro projeto desenvolvido para uma empresa externa e envolvendo documentos relacionados à Receita Federal, o quarto semestre exigiu bastante responsabilidade da equipe em relação à precisão das informações processadas pela aplicação. Buscamos manter cuidado constante na implementação das funcionalidades e na validação dos resultados apresentados ao cliente. Essa experiência reforçou minha percepção sobre a importância da responsabilidade e do comprometimento profissional no desenvolvimento de soluções voltadas a contextos reais.
+
 </details>
 
 <details> 
 <summary>5° Semestre (2026-1) | SyncDesk</summary>
 
 **Conclusão (Previsão):** *Junho/2026*  
-**Empresa:** Pro4Tech, empresa de comércio exterior e soluções fiscais - Larissa Souza e Rafael Monteiro.
+**Empresa:** Pro4Tech, empresa de tecnologia e consultoria especializada em transformação digital - Larissa Souza e Rafael Monteiro.
 
 **Problema:**  
 O cliente relatou que os funcionários de sua empresa possuíam pouco conhecimento sobre a metodologia ágil SCRUM, o que dificultava sua aplicação no ambiente corporativo. A falta de compreensão sobre os papéis, eventos, valores e práticas do framework comprometia a organização e a eficiência dos processos internos. Diante disso, surgiu a necessidade de uma solução que facilitasse o aprendizado e promovesse uma melhor assimilação dos conceitos do SCRUM de forma clara, acessível e prática.
