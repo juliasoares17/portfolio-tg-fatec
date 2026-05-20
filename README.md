@@ -195,7 +195,7 @@ Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o 
 Profissionais como economistas e gestores públicos enfrentam certas dores quando seu objetivo é acompanhar o desempenho dos estados brasileiros quanto ao comércio exterior. Alguns exemplos são longos períodos de pesquisa por informações específicas, grandes volumes de dados irrelevantes, desatualizados e/ou desorganizados e dificuldades na interpretação dos dados para tomar decisões. 
 
 **Objetivo:**  
-Desenvolver uma plataforma web sobre comércio exterior que solucione todas essas dores. 
+Desenvolver uma plataforma web capaz de centralizar e organizar dados relacionados ao comércio exterior brasileiro, facilitando a consulta e a interpretação das informações por parte dos usuários. A aplicação deveria disponibilizar recursos visuais e estatísticos que auxiliassem na identificação de tendências, comparações e padrões comerciais entre estados e setores econômicos, tornando o processo de análise mais acessível, eficiente e confiável.
 
 **Solução:**  
 Foi criado o “InsightFlow”, plataforma web voltada à análise do comércio exterior brasileiro entre 2014 e 2024. O site disponibiliza rankings, consultas e análises estatísticas por estados, países e setores, além de mapa de calor da balança comercial e gráficos com regressão linear, volatilidade e crescimento mensal. O backend está em Python com Flask, utilizando PostgreSQL e Redis, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A aplicação possui arquitetura dockerizada e integração com modelo SARIMA para previsão de tendências.
@@ -345,8 +345,8 @@ Atuei como Scrum Master pela primeira vez durante o quarto semestre, sendo respo
 - Implementação da responsividade da interface para diferentes tamanhos de tela e dispositivos.
 - Desenvolvimento dos modos claro e escuro da aplicação por meio de TailwindCSS.
 - Implementação da funcionalidade de upload de arquivos PDF, incluindo suporte a “drag and drop”, tudo por TypeScript.
-- Contribuição na implementação da funcionalidade de exportação de dados para arquivos Excel.
-- Contribuição na exibição de notificações de processamento em tempo real em qualquer página do sistema.
+- Uso de TypeScript para contribuir na implementação da funcionalidade de exportação de dados para arquivos Excel.
+- Uso de TypeScript para contribuir na exibição de notificações de processamento em tempo real em qualquer página do sistema.
 - Uso de TypeScript para implementação de funcionalidades de pesquisa, filtragem e ordenação na página de histórico de processamentos, incluindo buscas por NCM, fabricante e país de origem.
 - Integração entre frontend e backend das funcionalidades de autenticação, incluindo login, logout e cadastro de usuários.
 - Organização e acompanhamento das sprints por meio da elaboração e gerenciamento do PACER.
