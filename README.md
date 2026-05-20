@@ -189,7 +189,7 @@ Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o 
 <summary>3° Semestre (2025-1) | InsightFlow</summary>
 
 **Conclusão:** *Junho/2025*  
-**Empresa:** FATEC São José dos Campos - Marcus Vinícius do Nascimento, cliente simulado. 
+**Empresa:** FATEC São José dos Campos - Prof. Marcus Vinícius do Nascimento, coordenador do curso de Logística. Cliente simulado. 
 
 **Problema:**  
 Profissionais como economistas e gestores públicos enfrentam certas dores quando seu objetivo é acompanhar o desempenho dos estados brasileiros quanto ao comércio exterior. Alguns exemplos são longos períodos de pesquisa por informações específicas, grandes volumes de dados irrelevantes, desatualizados e/ou desorganizados e dificuldades na interpretação dos dados para tomar decisões. 
