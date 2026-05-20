@@ -8,11 +8,11 @@ Apesar de meu primeiro contato técnico com programação ter acontecido por mei
 
 Foi nesse contexto que a programação começou a despertar meu interesse. A valorização da arte no Brasil, especialmente de expressões menos populares como o sapateado, ainda enfrenta muitos desafios, e encontrei na tecnologia uma área na qual também me sentia capaz de crescer e me desenvolver profissionalmente. O curso do Senai foi responsável por me introduzir aos primeiros conceitos fundamentais da programação, como estruturas de repetição e condição, além de expressões aritméticas, literais e lógicas, servindo como ponto de partida para minha formação.
 
-A escolha pela Fatec e pelo curso de Análise e Desenvolvimento de Sistemas aconteceu após pesquisas sobre a instituição, sua reputação, a estrutura curricular do curso e o corpo docente. Além disso, ouvi comentários de que ADS era conhecido informalmente como um dos cursos mais acessíveis para quem estava começando na área de tecnologia, o que me chamou atenção por parecer uma introdução mais amigável para iniciantes. Após conhecer melhor a proposta do curso, percebi que ele atendia às minhas expectativas e representava exatamente o tipo de formação que eu buscava.
+A escolha pela Fatec e pelo curso de Análise e Desenvolvimento de Sistemas aconteceu após sugestões vindas de minha família e pesquisas sobre a instituição, sua reputação, a estrutura curricular do curso e o corpo docente. Além disso, ouvi comentários de que ADS era conhecido informalmente como um dos cursos mais acessíveis para quem estava começando na área de tecnologia, o que me chamou atenção por parecer uma introdução mais amigável para iniciantes. Após conhecer melhor a proposta do curso, percebi que ele atendia às minhas expectativas e representava exatamente o tipo de formação que eu buscava.
 
 Hoje, a programação se tornou uma área pela qual tenho grande interesse, especialmente no desenvolvimento Front-end. Gosto da liberdade criativa que o desenvolvimento de interfaces proporciona e da possibilidade de transformar ideias em experiências visuais e funcionais. A sensação de construir algo do zero e perceber que praticamente não existem limites para o que pode ser criado é algo que constantemente me motiva. Ao mesmo tempo em que reconheço a evolução técnica que já tive durante a graduação, também entendo que ainda existe uma enorme variedade de tecnologias e conteúdos para aprender — e isso não me desanima, mas reforça ainda mais meu interesse pela área.
 
-Até o momento, tive experiências profissionais voltadas ao desenvolvimento web e manutenção de sites. Minha primeira experiência formal aconteceu por meio de um estágio remoto na empresa Hospedagem Barra Grande, localizada no estado do Piauí, onde atuei como estagiária em desenvolvimento Front-end. Fui responsável por dar continuidade ao desenvolvimento do site da empresa utilizando WordPress e snippets de código escritos em HTML, CSS, JavaScript e PHP, além de prestar suporte técnico sempre que surgiam dúvidas relacionadas ao funcionamento da plataforma. Além disso, também realizei, de forma independente, modificações e correções no site da marca de roupas Ana Fernandes. O projeto também envolveu a manutenção de um site em WordPress que apresentava diversos problemas técnicos, plugins desatualizados e inconsistências visuais. Após as melhorias realizadas, a plataforma passou a operar de forma estável, contribuindo para uma melhor experiência dos clientes e para o fortalecimento da presença digital da marca.
+Até o momento, tive experiências profissionais voltadas ao desenvolvimento web e manutenção de sites. Minha primeira experiência formal aconteceu por meio de um estágio remoto na empresa Hospedagem Barra Grande, localizada no estado do Piauí, onde atuei como estagiária em desenvolvimento Front-end. Fui responsável por dar continuidade ao desenvolvimento do site da empresa utilizando WordPress e snippets de código escritos em HTML, CSS, JavaScript e PHP, além de prestar suporte técnico sempre que surgiam dúvidas relacionadas ao funcionamento da plataforma. Além disso, também realizei, de forma independente, modificações e correções no site da marca de roupas Ana Fernandes. O projeto também envolveu a manutenção de um site em WordPress que apresentava diversos problemas técnicos, plugins desatualizados e inconsistências visuais. Após as melhorias realizadas, a plataforma passou a operar de forma estável, contribuindo para uma melhor experiência dos clientes e para o fortalecimento da presença digital da marca. Estou buscando por novas oportunidades atualmente.
 
 Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos técnicos, mas também habilidades práticas e comportamentais por meio de projetos acadêmicos. O objetivo deste repositório é documentar minha evolução e minha participação nos trabalhos semestrais realizados durante o curso, também conhecidos como APIs (Aprendizado por Projetos Integradores).
 
@@ -47,7 +47,9 @@ Desenvolver uma plataforma web educacional dedicada à metodologia SCRUM, reunin
 **Solução:**  
 Foi desenvolvido o “Mestre Ágil”, uma plataforma web voltada ao ensino de SCRUM por meio de conteúdos teóricos, quizzes e uma avaliação final com emissão de certificado. O sistema também disponibiliza modelos de artefatos SCRUM e a ferramenta “PACER”, utilizada para auxiliar Scrum Masters na análise do desempenho de suas equipes. O backend foi desenvolvido em Python com Flask integrado a um banco SQLite, enquanto o frontend utilizou HTML, CSS, Bootstrap e JavaScript. A aplicação foi hospedada em uma instância AWS EC2 com NGINX como proxy reverso.
 
-<img align="center" src="./img/API1-logo.png" width="400">
+<p align="center">
+  <img src="./img/API1-logo.png" width="500">
+</p>
 <br/>
 <br/>
 
@@ -73,14 +75,14 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 ### 🎯 Contribuições Pessoais
 Atuei como integrante do time de desenvolvimento (Dev Team) durante o primeiro semestre, contribuindo principalmente nas áreas de conteúdo, experiência do usuário e interface da plataforma.
 
-- Elaboração do logotipo da aplicação.
-- Produção da apostila digital contendo o conteúdo teórico utilizado na plataforma.
+- Elaboração do logotipo da aplicação pelo Krita.
+- Escrita da apostila digital contendo o conteúdo teórico utilizado na plataforma.
 - Escrita do guia prático responsável por orientar os usuários sobre a utilização dos recursos do sistema.
-- Elaboração de mensagens explicativas exibidas quando o usuário respondia incorretamente às questões.
-- Implementação da lógica dos tipos diferenciados de perguntas presentes nos quizzes, incluindo questões de associação e verdadeiro ou falso, com o objetivo de tornar as atividades mais dinâmicas e interativas.
-- Desenvolvimento da estilização visual das páginas dos sistemas de quizzes e avaliação final, incluindo os diferentes formatos de questões utilizados pela plataforma.
+- Escrita de mensagens explicativas exibidas quando o usuário responde incorretamente às questões.
+- Implementação da lógica Python dos tipos diferenciados de perguntas presentes nos quizzes, incluindo questões de associação e verdadeiro ou falso, com o objetivo de tornar as atividades mais dinâmicas e interativas.
+- Estilização visual das páginas dos sistemas de quizzes e avaliação final com CSS3, incluindo os diferentes formatos de questões utilizados pela plataforma.
 - Produção dos textos de apoio disponibilizados para consulta antes da realização dos quizzes.
-- Criação das páginas de conteúdo exibidas entre as etapas dos quizzes para complementar o aprendizado do usuário.
+- Criação das páginas de conteúdo exibidas entre as etapas dos quizzes com HTML5.
 - Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
 ### ⚙️ Hard Skills
@@ -126,7 +128,9 @@ Desenvolver um software capaz de automatizar a extração de informações de do
 **Solução:**  
 Foi desenvolvida a solução local “IDScan”, aplicação desktop capaz de digitalizar documentos RG e armazenar dados extraídos em um banco MySQL local. O sistema utiliza OCR com Tesseract e modelos executados via Ollama para identificar informações como CPF, data de nascimento, naturalidade e filiação a partir das imagens do documento. O usuário realiza o upload das imagens da frente e do verso do RG, podendo corrigir manualmente informações extraídas de forma incorreta ou incompleta. Após validação, os dados podem ser salvos e consultados futuramente.
 
-<img align="center" src="./img/API2-logo.png" width="400">
+<p align="center">
+  <img src="./img/API2-logo.png" width="500">
+</p>
 <br/>
 <br/>
 
@@ -151,13 +155,12 @@ Para mais informações, o repositório do projeto está disponível [aqui](http
 Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o segundo API, sendo responsável principalmente pelas funcionalidades relacionadas à interface gráfica da aplicação em JavaFX.
 
 - Desenvolvimento das interfaces da aplicação utilizando JavaFX.
-- Elaboração do logotipo da aplicação.
-- Implementação da estilização visual de todas as telas do sistema, incluindo as telas de upload de documentos, pré-visualização das imagens inseridas, carregamento e exibição dos resultados extraídos.
-- Implementação da responsividade da interface, permitindo o uso da aplicação tanto em tela cheia quanto em formatos reduzidos.
-- Desenvolvimento da funcionalidade de arrastar e soltar arquivos (“drag and drop”) na área de upload, além do envio tradicional por seleção de arquivos.
-- Implementação de feedbacks visuais para indicar sucesso ou falha durante as operações realizadas pelo usuário.
-- Desenvolvimento da funcionalidade de pesquisa por dados específicos na tela de resultados.
-- Implementação de filtros para permitir exclusivamente o envio de arquivos de imagem compatíveis com a aplicação.
+- Elaboração do logotipo da aplicação pelo Krita.
+- Implementação da estilização visual de todas as telas do sistema com JavaFX, incluindo as telas de upload de documentos, pré-visualização das imagens inseridas, carregamento e exibição dos resultados extraídos.
+- Implementação da responsividade da interface com JavaFX, permitindo o uso da aplicação tanto em tela cheia quanto em formatos reduzidos.
+- Uso de Java para desenvolvimento da funcionalidade de arrastar e soltar arquivos (“drag and drop”) na área de upload, além do envio tradicional por seleção de arquivos, e da funcionalidade de pesquisa por dados específicos na tela de resultados.
+- Implementação de feedbacks visuais com JavaFX para indicar sucesso ou falha durante as operações realizadas pelo usuário.
+- Uso de Java para permitir apenas o envio de arquivos de imagens para a aplicação.
 - Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
 ### ⚙️ Hard Skills
@@ -202,7 +205,9 @@ Desenvolver uma plataforma web sobre comércio exterior que solucione todas essa
 **Solução:**  
 Foi criado o “InsightFlow”, plataforma web voltada à análise do comércio exterior brasileiro entre 2014 e 2024. O site disponibiliza rankings, consultas e análises estatísticas por estados, países e setores, além de mapa de calor da balança comercial e gráficos com regressão linear, volatilidade e crescimento mensal. O backend está em Python com Flask, utilizando PostgreSQL e Redis, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A aplicação possui arquitetura dockerizada e integração com modelo SARIMA para previsão de tendências.
 
-<img src="./img/API3-logo.png" width="400">
+<p align="center">
+  <img src="./img/API3-logo.png" width="500">
+</p>
 <br/>
 <br/>
 
@@ -236,21 +241,21 @@ Para mais informações, o repositório principal do projeto está disponível [
 ### 🎯 Contribuições Pessoais
 Atuei como integrante do time de desenvolvimento (Dev Team) durante o terceiro semestre, contribuindo principalmente nas áreas de interface, visualização de dados e padronização visual da plataforma.
 
-- Elaboração do logotipo da aplicação.
+- Elaboração do logotipo da aplicação pelo Krita.
 - Criação do protótipo visual no Figma, utilizado como base para a identidade visual e estrutura das páginas do sistema.
 - Desenvolvimento do VPC (Value Proposition Canvas) da solução, documentando visualmente o perfil do cliente, suas dores, ganhos e a proposta de valor da aplicação.
-- Implementação de componentes reutilizáveis da interface, incluindo navbar e rodapé responsivos e compatíveis com diferentes dispositivos.
-- Contribuição na padronização visual e estilização geral das páginas da plataforma.
-- Implementação de ajustes de responsividade para garantir a correta visualização do sistema em diferentes tamanhos de tela.
-- Desenvolvimento dos códigos responsáveis pela estruturação dos setores econômicos exibidos nos gráficos da aplicação por meio de arquivos JSON.
+- Implementação de componentes reutilizáveis da interface de acordo com o padrão do React, incluindo navbar e rodapé responsivos e compatíveis com diferentes dispositivos.
+- Contribuição na padronização visual e estilização geral das páginas da plataforma com TailwindCSS.
+- Implementação de ajustes de responsividade com TailwindCSS para garantir a correta visualização do sistema em diferentes tamanhos de tela.
+- Escrita dos códigos responsáveis pela estruturação dos setores econômicos exibidos nos gráficos da aplicação por meio de arquivos JSON.
 - Participação nas cerimônias do SCRUM e nas discussões relacionadas ao desenvolvimento e organização do projeto.
 
 Minhas principais contribuições estiveram concentradas na página de Análise de Estados:
 
-- Desenvolvimento e integração ao backend do mapa de calor do Brasil, no qual as cores dos estados variavam de acordo com a balança comercial calculada a partir da relação entre exportações e importações.
+- Desenvolvimento e integração ao backend do mapa de calor do Brasil, no qual as cores dos estados variavam de acordo com a balança comercial calculada a partir da relação entre exportações e importações. O visual do mapa foi criado por meio da biblioteca Leaflet do React.
 - Implementação da linha do tempo interativa utilizada para filtrar os dados exibidos entre os anos de 2014 e 2024.
-- Desenvolvimento e integração de um modal de informações exibido ao selecionar um estado no mapa, contendo dados como capital, área territorial, PIB e valores movimentados em importações e exportações.
-- Criação e integração dos gráficos de Exportações vs Importações, tanto na visão geral do estado quanto segmentados por setores econômicos, incluindo agronegócio, bens de consumo, indústria, mineração, setor industrial e tecnologia.
+- Desenvolvimento visual e integração de um modal de informações exibido ao selecionar um estado no mapa, contendo dados como capital, área territorial, PIB e valores movimentados em importações e exportações.
+- Criação (com a biblioteca Recharts do React) e integração dos gráficos de Exportações vs Importações, tanto na visão geral do estado quanto segmentados por setores econômicos, incluindo agronegócio, bens de consumo, indústria, mineração, setor industrial e tecnologia.
 
 ### ⚙️ Hard Skills
 | Skill                   |  Proficiência             |
@@ -303,7 +308,9 @@ Desenvolver uma solução capaz de automatizar a criação de declarações adua
 **Solução:**  
 Foi desenvolvido o “Nexa”, site voltado à criação automática de descrições aduaneiras para produtos importados. Ele recebe part-numbers individuais ou extraídos de PDFs e gera informações como descrição técnica, classificação fiscal (NCM) e alíquota do produto. O backend foi desenvolvido em Python com Flask utilizando PostgreSQL, Redis e Celery, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A solução web também integrou agentes baseados em smol-agents, Ollama e ChromaDB para pesquisa e organização das informações coletadas.
 
-<img src="./img/API4-logo.png" width="400">
+<p align="center">
+  <img src="./img/API4-logo.png" width="500">
+</p>
 <br/>
 <br/>
 
@@ -339,12 +346,19 @@ Para mais informações, o repositório principal do projeto está disponível [
 | Jira                       | Gestão de tarefas e burndown                                        |
 
 ### 🎯 Contribuições Pessoais
-Atuei como Scrum Master pela primeira vez no quarto semestre.
+Atuei como Scrum Master pela primeira vez durante o quarto semestre, sendo responsável tanto pelo acompanhamento das atividades da equipe quanto pelo desenvolvimento de funcionalidades relacionadas ao frontend da aplicação.
 
 - Criação do protótipo visual no Figma, utilizado como base para a identidade visual e estrutura das páginas do sistema.
-- Modo claro e modo escuro da aplicação
-- 
-- Integração das funcionalidades de login, logout e cadastro entre back e frontend
+- Desenvolvimento da estrutura visual das telas da aplicação utilizando HTML5, TypeScript e TailwindCSS.
+- Implementação da responsividade da interface para diferentes tamanhos de tela e dispositivos.
+- Desenvolvimento dos modos claro e escuro da aplicação por meio de TailwindCSS.
+- Implementação da funcionalidade de upload de arquivos PDF, incluindo suporte a “drag and drop”, tudo por TypeScript.
+- Contribuição na implementação da funcionalidade de exportação de dados para arquivos Excel.
+- Contribuição na exibição de notificações de processamento em tempo real em qualquer página do sistema.
+- Uso de TypeScript para implementação de funcionalidades de pesquisa, filtragem e ordenação na página de histórico de processamentos, incluindo buscas por NCM, fabricante e país de origem.
+- Integração entre frontend e backend das funcionalidades de autenticação, incluindo login, logout e cadastro de usuários.
+- Organização e acompanhamento das sprints por meio da elaboração e gerenciamento do PACER.
+- Participação ativa nas cerimônias do SCRUM e no acompanhamento geral do fluxo de desenvolvimento da equipe.
 
 ### ⚙️ Hard Skills
 | Skill                      |  Proficiência             |
