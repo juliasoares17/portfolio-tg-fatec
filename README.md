@@ -192,7 +192,7 @@ Atuei novamente como integrante do time de desenvolvimento (Dev Team) durante o 
 **Empresa:** FATEC São José dos Campos - Marcus Vinícius do Nascimento, cliente simulado. 
 
 **Problema:**  
-Profissionais como economistas, gestores públicos e empresas enfrentam certas dores quando seu objetivo é acompanhar o desempenho dos estados brasileiros quanto ao comércio exterior. Alguns exemplos são longos períodos de pesquisa por informações específicas, grandes volumes de dados irrelevantes, desatualizados e/ou desorganizados e dificuldades na interpretação dos dados para tomar decisões. 
+Profissionais como economistas e gestores públicos enfrentam certas dores quando seu objetivo é acompanhar o desempenho dos estados brasileiros quanto ao comércio exterior. Alguns exemplos são longos períodos de pesquisa por informações específicas, grandes volumes de dados irrelevantes, desatualizados e/ou desorganizados e dificuldades na interpretação dos dados para tomar decisões. 
 
 **Objetivo:**  
 Desenvolver uma plataforma web sobre comércio exterior que solucione todas essas dores. 
