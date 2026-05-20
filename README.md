@@ -20,6 +20,7 @@ Ao longo da graduação, venho buscando desenvolver não apenas conhecimentos t�
 ## 📞 Contatos
 <a href = "https://mail.google.com/mail/?view=cm&to=juliapereira1448@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/julia-pereira-dev/"><img src="https://img.shields.io/badge/🔗%20LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=F26B9C" target="_blank"></a>
+<a href = "https://github.com/juliasoares17"><img src="https://img.shields.io/badge/%20GitHub-%23333?style=for-the-badge&logo=github&logoColor=F26B9C" target="_blank"></a>
 
 
 ## 🌐 Principais Conhecimentos e Ferramentas
