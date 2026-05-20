@@ -301,7 +301,7 @@ A empresa cliente importava muitos produtos do exterior, principalmente componen
 Desenvolver uma solução capaz de automatizar a criação de declarações aduaneiras para a Receita Federal, reduzindo o tempo gasto pelos analistas e minimizando riscos de inconsistências no processo. A aplicação deve gerar descrições completas dos produtos importados a partir de suas informações, garantindo maior clareza na identificação dos itens declarados. Dessa forma, garante-se um processo mais eficiente, padronizado e menos suscetível a questionamentos, penalidades ou multas.
 
 **Solução:**  
-Foi desenvolvido o “Nexa”, uma aplicação web voltada à criação automática de descrições aduaneiras para produtos importados. O sistema recebe part-numbers individuais ou extraídos de PDFs e gera informações como descrição técnica, classificação fiscal (NCM) e alíquota do produto. O backend foi desenvolvido em Python com Flask utilizando PostgreSQL, Redis e Celery, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A solução também integrou agentes baseados em smol-agents, Ollama e ChromaDB para pesquisa e organização inteligente das informações coletadas.
+Foi desenvolvido o “Nexa”, site voltado à criação automática de descrições aduaneiras para produtos importados. Ele recebe part-numbers individuais ou extraídos de PDFs e gera informações como descrição técnica, classificação fiscal (NCM) e alíquota do produto. O backend foi desenvolvido em Python com Flask utilizando PostgreSQL, Redis e Celery, enquanto o frontend utiliza React, TypeScript, Vite e TailwindCSS. A solução web também integrou agentes baseados em smol-agents, Ollama e ChromaDB para pesquisa e organização das informações coletadas.
 
 <img src="./img/API4-logo.png" width="400">
 <br/>
