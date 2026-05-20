@@ -121,7 +121,7 @@ Atuei como integrante do time de desenvolvimento (Dev Team) durante o primeiro s
 Empresas e instituições lidam diariamente com grandes volumes de documentos, como currículos, contas, notas fiscais, formulários e relatórios. Quando a extração de informações desses arquivos depende exclusivamente da atividade humana, o processo se torna lento, repetitivo e suscetível a falhas, comprometendo a produtividade e a confiabilidade dos dados obtidos. 
 
 **Objetivo:**  
-Desenvolver um software capaz de automatizar a extração de informações de documentos utilizando modelos de linguagem e visão computacional. O projeto deveria ser voltado ao processamento de um tipo específico de documento, ficando a critério de cada grupo definir qual tipo seria abordado em sua solução.
+Desenvolver um software capaz de automatizar a extração de informações de documentos utilizando modelos de linguagem e visão computacional. O projeto deve ser voltado ao processamento de um tipo específico de documento, ficando a critério de cada grupo definir qual tipo seria abordado em sua solução.
 
 **Solução:**  
 Foi desenvolvida a solução local “IDScan”, aplicação desktop capaz de digitalizar documentos RG e armazenar dados extraídos em um banco MySQL local. O sistema utiliza OCR com Tesseract e modelos executados via Ollama para identificar informações como CPF, data de nascimento, naturalidade e filiação a partir das imagens do documento. O usuário realiza o upload das imagens da frente e do verso do RG, podendo corrigir manualmente informações extraídas de forma incorreta ou incompleta. Após validação, os dados podem ser salvos e consultados futuramente.
